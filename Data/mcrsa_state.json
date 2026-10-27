@@ -1,7 +1,7 @@
 {
-  "total_steps": 5000,
-  "total_discoveries": 110,
-  "current_loss": 0.051517,
+  "total_steps": 5010,
+  "total_discoveries": 120,
+  "current_loss": 0.050395,
   "candidate_attempts": {
     "PC0.5Sn0.5O3": 1,
     "P0.5Ag0.5CS3": 1,
@@ -134,10 +134,20 @@
     "PGe0.5Mg0.5O3": 1,
     "PGe0.5Zr0.5N3": 1,
     "PGe0.5Mg0.5S3": 1,
-    "PGe0.5Li0.5Cl3": 1
+    "PGe0.5Li0.5Cl3": 1,
+    "PGe0.5Li0.5F3": 1,
+    "PGe0.5Li0.5Br3": 1,
+    "PGe0.5Li0.5I3": 1,
+    "P0.5La0.5SnO3": 1,
+    "P0.5Ag0.5SnS3": 1,
+    "P0.5Ca0.5SnCl3": 1,
+    "PSn0.5Li0.5Cl3": 1,
+    "P0.5Na0.5SnBr3": 1,
+    "PSn0.5Li0.5Br3": 1,
+    "PSn0.5Li0.5I3": 1
   },
-  "candidate_cycle": 132,
-  "last_checkpoint_time": "2026-10-28 02:38:08",
+  "candidate_cycle": 142,
+  "last_checkpoint_time": "2026-10-28 02:39:20",
   "pretraining_completed": true,
   "pretraining_epochs_completed": 8
 }
