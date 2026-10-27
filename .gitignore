@@ -1,0 +1,28 @@
+# Environments & Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environment secrets
+.env
+
+# Notebook checkpoints & logs
+.ipynb_checkpoints/
+Data/notebook_ingestion_audit.jsonl
+Data/notebook_accepted_records.json
+
+# Scratch & Temporary files
+scratch/
+test_*.py
+step_381_*
+
+# OS artifacts
+.DS_Store
+Thumbs.db

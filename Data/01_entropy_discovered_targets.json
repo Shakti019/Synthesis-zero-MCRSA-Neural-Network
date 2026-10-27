@@ -1,0 +1,1514 @@
+[
+  {
+    "formula": "SrZrF3",
+    "elements": [
+      "Sr",
+      "Zr",
+      "F",
+      "F",
+      "F"
+    ],
+    "entropy_hunger": 3.4345,
+    "is_unexplored": true
+  },
+  {
+    "formula": "SrHfF3",
+    "elements": [
+      "Sr",
+      "Hf",
+      "F",
+      "F",
+      "F"
+    ],
+    "entropy_hunger": 3.4326,
+    "is_unexplored": true
+  },
+  {
+    "formula": "BaZrF3",
+    "elements": [
+      "Ba",
+      "Zr",
+      "F",
+      "F",
+      "F"
+    ],
+    "entropy_hunger": 3.4324,
+    "is_unexplored": true
+  },
+  {
+    "formula": "KZrF3",
+    "elements": [
+      "K",
+      "Zr",
+      "F",
+      "F",
+      "F"
+    ],
+    "entropy_hunger": 3.4314,
+    "is_unexplored": true
+  },
+  {
+    "formula": "BaHfF3",
+    "elements": [
+      "Ba",
+      "Hf",
+      "F",
+      "F",
+      "F"
+    ],
+    "entropy_hunger": 3.4305,
+    "is_unexplored": true
+  },
+  {
+    "formula": "LaZrF3",
+    "elements": [
+      "La",
+      "Zr",
+      "F",
+      "F",
+      "F"
+    ],
+    "entropy_hunger": 3.4303,
+    "is_unexplored": true
+  },
+  {
+    "formula": "KHfF3",
+    "elements": [
+      "K",
+      "Hf",
+      "F",
+      "F",
+      "F"
+    ],
+    "entropy_hunger": 3.4295,
+    "is_unexplored": true
+  },
+  {
+    "formula": "CaZrF3",
+    "elements": [
+      "Ca",
+      "Zr",
+      "F",
+      "F",
+      "F"
+    ],
+    "entropy_hunger": 3.4286,
+    "is_unexplored": true
+  },
+  {
+    "formula": "LaHfF3",
+    "elements": [
+      "La",
+      "Hf",
+      "F",
+      "F",
+      "F"
+    ],
+    "entropy_hunger": 3.4284,
+    "is_unexplored": true
+  },
+  {
+    "formula": "CaHfF3",
+    "elements": [
+      "Ca",
+      "Hf",
+      "F",
+      "F",
+      "F"
+    ],
+    "entropy_hunger": 3.4268,
+    "is_unexplored": true
+  },
+  {
+    "formula": "SrFeF3",
+    "elements": [
+      "Sr",
+      "Fe",
+      "F",
+      "F",
+      "F"
+    ],
+    "entropy_hunger": 3.4188,
+    "is_unexplored": true
+  },
+  {
+    "formula": "SrMnF3",
+    "elements": [
+      "Sr",
+      "Mn",
+      "F",
+      "F",
+      "F"
+    ],
+    "entropy_hunger": 3.4188,
+    "is_unexplored": true
+  },
+  {
+    "formula": "SrNbF3",
+    "elements": [
+      "Sr",
+      "Nb",
+      "F",
+      "F",
+      "F"
+    ],
+    "entropy_hunger": 3.4176,
+    "is_unexplored": true
+  },
+  {
+    "formula": "SrTaF3",
+    "elements": [
+      "Sr",
+      "Ta",
+      "F",
+      "F",
+      "F"
+    ],
+    "entropy_hunger": 3.4176,
+    "is_unexplored": true
+  },
+  {
+    "formula": "BaFeF3",
+    "elements": [
+      "Ba",
+      "Fe",
+      "F",
+      "F",
+      "F"
+    ],
+    "entropy_hunger": 3.4164,
+    "is_unexplored": true
+  },
+  {
+    "formula": "BaMnF3",
+    "elements": [
+      "Ba",
+      "Mn",
+      "F",
+      "F",
+      "F"
+    ],
+    "entropy_hunger": 3.4164,
+    "is_unexplored": true
+  },
+  {
+    "formula": "KFeF3",
+    "elements": [
+      "K",
+      "Fe",
+      "F",
+      "F",
+      "F"
+    ],
+    "entropy_hunger": 3.4153,
+    "is_unexplored": true
+  },
+  {
+    "formula": "KMnF3",
+    "elements": [
+      "K",
+      "Mn",
+      "F",
+      "F",
+      "F"
+    ],
+    "entropy_hunger": 3.4153,
+    "is_unexplored": true
+  },
+  {
+    "formula": "BaNbF3",
+    "elements": [
+      "Ba",
+      "Nb",
+      "F",
+      "F",
+      "F"
+    ],
+    "entropy_hunger": 3.4152,
+    "is_unexplored": true
+  },
+  {
+    "formula": "BaTaF3",
+    "elements": [
+      "Ba",
+      "Ta",
+      "F",
+      "F",
+      "F"
+    ],
+    "entropy_hunger": 3.4152,
+    "is_unexplored": true
+  },
+  {
+    "formula": "LaFeF3",
+    "elements": [
+      "La",
+      "Fe",
+      "F",
+      "F",
+      "F"
+    ],
+    "entropy_hunger": 3.4149,
+    "is_unexplored": true
+  },
+  {
+    "formula": "LaMnF3",
+    "elements": [
+      "La",
+      "Mn",
+      "F",
+      "F",
+      "F"
+    ],
+    "entropy_hunger": 3.4149,
+    "is_unexplored": true
+  },
+  {
+    "formula": "KNbF3",
+    "elements": [
+      "K",
+      "Nb",
+      "F",
+      "F",
+      "F"
+    ],
+    "entropy_hunger": 3.4141,
+    "is_unexplored": true
+  },
+  {
+    "formula": "KTaF3",
+    "elements": [
+      "K",
+      "Ta",
+      "F",
+      "F",
+      "F"
+    ],
+    "entropy_hunger": 3.4141,
+    "is_unexplored": true
+  },
+  {
+    "formula": "CsZrF3",
+    "elements": [
+      "Cs",
+      "Zr",
+      "F",
+      "F",
+      "F"
+    ],
+    "entropy_hunger": 3.4141,
+    "is_unexplored": true
+  },
+  {
+    "formula": "LaNbF3",
+    "elements": [
+      "La",
+      "Nb",
+      "F",
+      "F",
+      "F"
+    ],
+    "entropy_hunger": 3.4137,
+    "is_unexplored": true
+  },
+  {
+    "formula": "LaTaF3",
+    "elements": [
+      "La",
+      "Ta",
+      "F",
+      "F",
+      "F"
+    ],
+    "entropy_hunger": 3.4137,
+    "is_unexplored": true
+  },
+  {
+    "formula": "CaFeF3",
+    "elements": [
+      "Ca",
+      "Fe",
+      "F",
+      "F",
+      "F"
+    ],
+    "entropy_hunger": 3.4133,
+    "is_unexplored": true
+  },
+  {
+    "formula": "CaMnF3",
+    "elements": [
+      "Ca",
+      "Mn",
+      "F",
+      "F",
+      "F"
+    ],
+    "entropy_hunger": 3.4133,
+    "is_unexplored": true
+  },
+  {
+    "formula": "CaNbF3",
+    "elements": [
+      "Ca",
+      "Nb",
+      "F",
+      "F",
+      "F"
+    ],
+    "entropy_hunger": 3.4121,
+    "is_unexplored": true
+  },
+  {
+    "formula": "CaTaF3",
+    "elements": [
+      "Ca",
+      "Ta",
+      "F",
+      "F",
+      "F"
+    ],
+    "entropy_hunger": 3.4121,
+    "is_unexplored": true
+  },
+  {
+    "formula": "CsHfF3",
+    "elements": [
+      "Cs",
+      "Hf",
+      "F",
+      "F",
+      "F"
+    ],
+    "entropy_hunger": 3.412,
+    "is_unexplored": true
+  },
+  {
+    "formula": "SrTiF3",
+    "elements": [
+      "Sr",
+      "Ti",
+      "F",
+      "F",
+      "F"
+    ],
+    "entropy_hunger": 3.4091,
+    "is_unexplored": true
+  },
+  {
+    "formula": "BaTiF3",
+    "elements": [
+      "Ba",
+      "Ti",
+      "F",
+      "F",
+      "F"
+    ],
+    "entropy_hunger": 3.4065,
+    "is_unexplored": true
+  },
+  {
+    "formula": "KTiF3",
+    "elements": [
+      "K",
+      "Ti",
+      "F",
+      "F",
+      "F"
+    ],
+    "entropy_hunger": 3.4054,
+    "is_unexplored": true
+  },
+  {
+    "formula": "LaTiF3",
+    "elements": [
+      "La",
+      "Ti",
+      "F",
+      "F",
+      "F"
+    ],
+    "entropy_hunger": 3.4053,
+    "is_unexplored": true
+  },
+  {
+    "formula": "CaTiF3",
+    "elements": [
+      "Ca",
+      "Ti",
+      "F",
+      "F",
+      "F"
+    ],
+    "entropy_hunger": 3.4037,
+    "is_unexplored": true
+  },
+  {
+    "formula": "CsFeF3",
+    "elements": [
+      "Cs",
+      "Fe",
+      "F",
+      "F",
+      "F"
+    ],
+    "entropy_hunger": 3.3973,
+    "is_unexplored": true
+  },
+  {
+    "formula": "CsMnF3",
+    "elements": [
+      "Cs",
+      "Mn",
+      "F",
+      "F",
+      "F"
+    ],
+    "entropy_hunger": 3.3973,
+    "is_unexplored": true
+  },
+  {
+    "formula": "CsNbF3",
+    "elements": [
+      "Cs",
+      "Nb",
+      "F",
+      "F",
+      "F"
+    ],
+    "entropy_hunger": 3.3961,
+    "is_unexplored": true
+  },
+  {
+    "formula": "CsTaF3",
+    "elements": [
+      "Cs",
+      "Ta",
+      "F",
+      "F",
+      "F"
+    ],
+    "entropy_hunger": 3.3961,
+    "is_unexplored": true
+  },
+  {
+    "formula": "CsTiF3",
+    "elements": [
+      "Cs",
+      "Ti",
+      "F",
+      "F",
+      "F"
+    ],
+    "entropy_hunger": 3.3871,
+    "is_unexplored": true
+  },
+  {
+    "formula": "BaZrO3",
+    "elements": [
+      "Ba",
+      "Zr",
+      "O",
+      "O",
+      "O"
+    ],
+    "entropy_hunger": 0.4569,
+    "is_unexplored": false
+  },
+  {
+    "formula": "SrZrO3",
+    "elements": [
+      "Sr",
+      "Zr",
+      "O",
+      "O",
+      "O"
+    ],
+    "entropy_hunger": 0.4569,
+    "is_unexplored": false
+  },
+  {
+    "formula": "KZrO3",
+    "elements": [
+      "K",
+      "Zr",
+      "O",
+      "O",
+      "O"
+    ],
+    "entropy_hunger": 0.4568,
+    "is_unexplored": false
+  },
+  {
+    "formula": "BaHfO3",
+    "elements": [
+      "Ba",
+      "Hf",
+      "O",
+      "O",
+      "O"
+    ],
+    "entropy_hunger": 0.4566,
+    "is_unexplored": false
+  },
+  {
+    "formula": "SrHfO3",
+    "elements": [
+      "Sr",
+      "Hf",
+      "O",
+      "O",
+      "O"
+    ],
+    "entropy_hunger": 0.4566,
+    "is_unexplored": false
+  },
+  {
+    "formula": "KHfO3",
+    "elements": [
+      "K",
+      "Hf",
+      "O",
+      "O",
+      "O"
+    ],
+    "entropy_hunger": 0.4566,
+    "is_unexplored": false
+  },
+  {
+    "formula": "BaZrN3",
+    "elements": [
+      "Ba",
+      "Zr",
+      "N",
+      "N",
+      "N"
+    ],
+    "entropy_hunger": 0.4562,
+    "is_unexplored": false
+  },
+  {
+    "formula": "KZrN3",
+    "elements": [
+      "K",
+      "Zr",
+      "N",
+      "N",
+      "N"
+    ],
+    "entropy_hunger": 0.4561,
+    "is_unexplored": false
+  },
+  {
+    "formula": "LaZrO3",
+    "elements": [
+      "La",
+      "Zr",
+      "O",
+      "O",
+      "O"
+    ],
+    "entropy_hunger": 0.456,
+    "is_unexplored": false
+  },
+  {
+    "formula": "BaHfN3",
+    "elements": [
+      "Ba",
+      "Hf",
+      "N",
+      "N",
+      "N"
+    ],
+    "entropy_hunger": 0.4559,
+    "is_unexplored": false
+  },
+  {
+    "formula": "SrZrN3",
+    "elements": [
+      "Sr",
+      "Zr",
+      "N",
+      "N",
+      "N"
+    ],
+    "entropy_hunger": 0.4559,
+    "is_unexplored": false
+  },
+  {
+    "formula": "KHfN3",
+    "elements": [
+      "K",
+      "Hf",
+      "N",
+      "N",
+      "N"
+    ],
+    "entropy_hunger": 0.4559,
+    "is_unexplored": false
+  },
+  {
+    "formula": "CaZrO3",
+    "elements": [
+      "Ca",
+      "Zr",
+      "O",
+      "O",
+      "O"
+    ],
+    "entropy_hunger": 0.4558,
+    "is_unexplored": false
+  },
+  {
+    "formula": "LaHfO3",
+    "elements": [
+      "La",
+      "Hf",
+      "O",
+      "O",
+      "O"
+    ],
+    "entropy_hunger": 0.4558,
+    "is_unexplored": false
+  },
+  {
+    "formula": "SrHfN3",
+    "elements": [
+      "Sr",
+      "Hf",
+      "N",
+      "N",
+      "N"
+    ],
+    "entropy_hunger": 0.4556,
+    "is_unexplored": false
+  },
+  {
+    "formula": "CaHfO3",
+    "elements": [
+      "Ca",
+      "Hf",
+      "O",
+      "O",
+      "O"
+    ],
+    "entropy_hunger": 0.4555,
+    "is_unexplored": false
+  },
+  {
+    "formula": "CsZrO3",
+    "elements": [
+      "Cs",
+      "Zr",
+      "O",
+      "O",
+      "O"
+    ],
+    "entropy_hunger": 0.455,
+    "is_unexplored": false
+  },
+  {
+    "formula": "LaZrN3",
+    "elements": [
+      "La",
+      "Zr",
+      "N",
+      "N",
+      "N"
+    ],
+    "entropy_hunger": 0.4549,
+    "is_unexplored": false
+  },
+  {
+    "formula": "CsZrN3",
+    "elements": [
+      "Cs",
+      "Zr",
+      "N",
+      "N",
+      "N"
+    ],
+    "entropy_hunger": 0.4548,
+    "is_unexplored": false
+  },
+  {
+    "formula": "CsHfO3",
+    "elements": [
+      "Cs",
+      "Hf",
+      "O",
+      "O",
+      "O"
+    ],
+    "entropy_hunger": 0.4548,
+    "is_unexplored": false
+  },
+  {
+    "formula": "BaFeO3",
+    "elements": [
+      "Ba",
+      "Fe",
+      "O",
+      "O",
+      "O"
+    ],
+    "entropy_hunger": 0.4547,
+    "is_unexplored": false
+  },
+  {
+    "formula": "BaMnO3",
+    "elements": [
+      "Ba",
+      "Mn",
+      "O",
+      "O",
+      "O"
+    ],
+    "entropy_hunger": 0.4547,
+    "is_unexplored": false
+  },
+  {
+    "formula": "SrFeO3",
+    "elements": [
+      "Sr",
+      "Fe",
+      "O",
+      "O",
+      "O"
+    ],
+    "entropy_hunger": 0.4547,
+    "is_unexplored": false
+  },
+  {
+    "formula": "SrMnO3",
+    "elements": [
+      "Sr",
+      "Mn",
+      "O",
+      "O",
+      "O"
+    ],
+    "entropy_hunger": 0.4547,
+    "is_unexplored": false
+  },
+  {
+    "formula": "LaHfN3",
+    "elements": [
+      "La",
+      "Hf",
+      "N",
+      "N",
+      "N"
+    ],
+    "entropy_hunger": 0.4546,
+    "is_unexplored": false
+  },
+  {
+    "formula": "KFeO3",
+    "elements": [
+      "K",
+      "Fe",
+      "O",
+      "O",
+      "O"
+    ],
+    "entropy_hunger": 0.4546,
+    "is_unexplored": false
+  },
+  {
+    "formula": "KMnO3",
+    "elements": [
+      "K",
+      "Mn",
+      "O",
+      "O",
+      "O"
+    ],
+    "entropy_hunger": 0.4546,
+    "is_unexplored": false
+  },
+  {
+    "formula": "BaNbO3",
+    "elements": [
+      "Ba",
+      "Nb",
+      "O",
+      "O",
+      "O"
+    ],
+    "entropy_hunger": 0.4545,
+    "is_unexplored": false
+  },
+  {
+    "formula": "BaTaO3",
+    "elements": [
+      "Ba",
+      "Ta",
+      "O",
+      "O",
+      "O"
+    ],
+    "entropy_hunger": 0.4545,
+    "is_unexplored": false
+  },
+  {
+    "formula": "SrNbO3",
+    "elements": [
+      "Sr",
+      "Nb",
+      "O",
+      "O",
+      "O"
+    ],
+    "entropy_hunger": 0.4545,
+    "is_unexplored": false
+  },
+  {
+    "formula": "SrTaO3",
+    "elements": [
+      "Sr",
+      "Ta",
+      "O",
+      "O",
+      "O"
+    ],
+    "entropy_hunger": 0.4545,
+    "is_unexplored": false
+  },
+  {
+    "formula": "CaZrN3",
+    "elements": [
+      "Ca",
+      "Zr",
+      "N",
+      "N",
+      "N"
+    ],
+    "entropy_hunger": 0.4545,
+    "is_unexplored": false
+  },
+  {
+    "formula": "KNbO3",
+    "elements": [
+      "K",
+      "Nb",
+      "O",
+      "O",
+      "O"
+    ],
+    "entropy_hunger": 0.4545,
+    "is_unexplored": false
+  },
+  {
+    "formula": "KTaO3",
+    "elements": [
+      "K",
+      "Ta",
+      "O",
+      "O",
+      "O"
+    ],
+    "entropy_hunger": 0.4545,
+    "is_unexplored": false
+  },
+  {
+    "formula": "CsHfN3",
+    "elements": [
+      "Cs",
+      "Hf",
+      "N",
+      "N",
+      "N"
+    ],
+    "entropy_hunger": 0.4545,
+    "is_unexplored": false
+  },
+  {
+    "formula": "CaHfN3",
+    "elements": [
+      "Ca",
+      "Hf",
+      "N",
+      "N",
+      "N"
+    ],
+    "entropy_hunger": 0.4543,
+    "is_unexplored": false
+  },
+  {
+    "formula": "BaFeN3",
+    "elements": [
+      "Ba",
+      "Fe",
+      "N",
+      "N",
+      "N"
+    ],
+    "entropy_hunger": 0.4539,
+    "is_unexplored": false
+  },
+  {
+    "formula": "BaMnN3",
+    "elements": [
+      "Ba",
+      "Mn",
+      "N",
+      "N",
+      "N"
+    ],
+    "entropy_hunger": 0.4539,
+    "is_unexplored": false
+  },
+  {
+    "formula": "LaFeO3",
+    "elements": [
+      "La",
+      "Fe",
+      "O",
+      "O",
+      "O"
+    ],
+    "entropy_hunger": 0.4539,
+    "is_unexplored": false
+  },
+  {
+    "formula": "LaMnO3",
+    "elements": [
+      "La",
+      "Mn",
+      "O",
+      "O",
+      "O"
+    ],
+    "entropy_hunger": 0.4539,
+    "is_unexplored": false
+  },
+  {
+    "formula": "KFeN3",
+    "elements": [
+      "K",
+      "Fe",
+      "N",
+      "N",
+      "N"
+    ],
+    "entropy_hunger": 0.4539,
+    "is_unexplored": false
+  },
+  {
+    "formula": "KMnN3",
+    "elements": [
+      "K",
+      "Mn",
+      "N",
+      "N",
+      "N"
+    ],
+    "entropy_hunger": 0.4539,
+    "is_unexplored": false
+  },
+  {
+    "formula": "BaNbN3",
+    "elements": [
+      "Ba",
+      "Nb",
+      "N",
+      "N",
+      "N"
+    ],
+    "entropy_hunger": 0.4538,
+    "is_unexplored": false
+  },
+  {
+    "formula": "BaTaN3",
+    "elements": [
+      "Ba",
+      "Ta",
+      "N",
+      "N",
+      "N"
+    ],
+    "entropy_hunger": 0.4538,
+    "is_unexplored": false
+  },
+  {
+    "formula": "LaNbO3",
+    "elements": [
+      "La",
+      "Nb",
+      "O",
+      "O",
+      "O"
+    ],
+    "entropy_hunger": 0.4538,
+    "is_unexplored": false
+  },
+  {
+    "formula": "LaTaO3",
+    "elements": [
+      "La",
+      "Ta",
+      "O",
+      "O",
+      "O"
+    ],
+    "entropy_hunger": 0.4538,
+    "is_unexplored": false
+  },
+  {
+    "formula": "SrFeN3",
+    "elements": [
+      "Sr",
+      "Fe",
+      "N",
+      "N",
+      "N"
+    ],
+    "entropy_hunger": 0.4537,
+    "is_unexplored": false
+  },
+  {
+    "formula": "SrMnN3",
+    "elements": [
+      "Sr",
+      "Mn",
+      "N",
+      "N",
+      "N"
+    ],
+    "entropy_hunger": 0.4537,
+    "is_unexplored": false
+  },
+  {
+    "formula": "KNbN3",
+    "elements": [
+      "K",
+      "Nb",
+      "N",
+      "N",
+      "N"
+    ],
+    "entropy_hunger": 0.4537,
+    "is_unexplored": false
+  },
+  {
+    "formula": "KTaN3",
+    "elements": [
+      "K",
+      "Ta",
+      "N",
+      "N",
+      "N"
+    ],
+    "entropy_hunger": 0.4537,
+    "is_unexplored": false
+  },
+  {
+    "formula": "CaFeO3",
+    "elements": [
+      "Ca",
+      "Fe",
+      "O",
+      "O",
+      "O"
+    ],
+    "entropy_hunger": 0.4536,
+    "is_unexplored": false
+  },
+  {
+    "formula": "CaMnO3",
+    "elements": [
+      "Ca",
+      "Mn",
+      "O",
+      "O",
+      "O"
+    ],
+    "entropy_hunger": 0.4536,
+    "is_unexplored": false
+  },
+  {
+    "formula": "SrNbN3",
+    "elements": [
+      "Sr",
+      "Nb",
+      "N",
+      "N",
+      "N"
+    ],
+    "entropy_hunger": 0.4535,
+    "is_unexplored": false
+  },
+  {
+    "formula": "SrTaN3",
+    "elements": [
+      "Sr",
+      "Ta",
+      "N",
+      "N",
+      "N"
+    ],
+    "entropy_hunger": 0.4535,
+    "is_unexplored": false
+  },
+  {
+    "formula": "CaNbO3",
+    "elements": [
+      "Ca",
+      "Nb",
+      "O",
+      "O",
+      "O"
+    ],
+    "entropy_hunger": 0.4535,
+    "is_unexplored": false
+  },
+  {
+    "formula": "CaTaO3",
+    "elements": [
+      "Ca",
+      "Ta",
+      "O",
+      "O",
+      "O"
+    ],
+    "entropy_hunger": 0.4535,
+    "is_unexplored": false
+  },
+  {
+    "formula": "BaTiO3",
+    "elements": [
+      "Ba",
+      "Ti",
+      "O",
+      "O",
+      "O"
+    ],
+    "entropy_hunger": 0.4534,
+    "is_unexplored": false
+  },
+  {
+    "formula": "SrTiO3",
+    "elements": [
+      "Sr",
+      "Ti",
+      "O",
+      "O",
+      "O"
+    ],
+    "entropy_hunger": 0.4534,
+    "is_unexplored": false
+  },
+  {
+    "formula": "KTiO3",
+    "elements": [
+      "K",
+      "Ti",
+      "O",
+      "O",
+      "O"
+    ],
+    "entropy_hunger": 0.4533,
+    "is_unexplored": false
+  },
+  {
+    "formula": "CsFeO3",
+    "elements": [
+      "Cs",
+      "Fe",
+      "O",
+      "O",
+      "O"
+    ],
+    "entropy_hunger": 0.4528,
+    "is_unexplored": false
+  },
+  {
+    "formula": "CsMnO3",
+    "elements": [
+      "Cs",
+      "Mn",
+      "O",
+      "O",
+      "O"
+    ],
+    "entropy_hunger": 0.4528,
+    "is_unexplored": false
+  },
+  {
+    "formula": "LaFeN3",
+    "elements": [
+      "La",
+      "Fe",
+      "N",
+      "N",
+      "N"
+    ],
+    "entropy_hunger": 0.4527,
+    "is_unexplored": false
+  },
+  {
+    "formula": "LaMnN3",
+    "elements": [
+      "La",
+      "Mn",
+      "N",
+      "N",
+      "N"
+    ],
+    "entropy_hunger": 0.4527,
+    "is_unexplored": false
+  },
+  {
+    "formula": "BaTiN3",
+    "elements": [
+      "Ba",
+      "Ti",
+      "N",
+      "N",
+      "N"
+    ],
+    "entropy_hunger": 0.4526,
+    "is_unexplored": false
+  },
+  {
+    "formula": "LaTiO3",
+    "elements": [
+      "La",
+      "Ti",
+      "O",
+      "O",
+      "O"
+    ],
+    "entropy_hunger": 0.4526,
+    "is_unexplored": false
+  },
+  {
+    "formula": "CsNbO3",
+    "elements": [
+      "Cs",
+      "Nb",
+      "O",
+      "O",
+      "O"
+    ],
+    "entropy_hunger": 0.4526,
+    "is_unexplored": false
+  },
+  {
+    "formula": "CsTaO3",
+    "elements": [
+      "Cs",
+      "Ta",
+      "O",
+      "O",
+      "O"
+    ],
+    "entropy_hunger": 0.4526,
+    "is_unexplored": false
+  },
+  {
+    "formula": "LaNbN3",
+    "elements": [
+      "La",
+      "Nb",
+      "N",
+      "N",
+      "N"
+    ],
+    "entropy_hunger": 0.4525,
+    "is_unexplored": false
+  },
+  {
+    "formula": "LaTaN3",
+    "elements": [
+      "La",
+      "Ta",
+      "N",
+      "N",
+      "N"
+    ],
+    "entropy_hunger": 0.4525,
+    "is_unexplored": false
+  },
+  {
+    "formula": "KTiN3",
+    "elements": [
+      "K",
+      "Ti",
+      "N",
+      "N",
+      "N"
+    ],
+    "entropy_hunger": 0.4525,
+    "is_unexplored": false
+  },
+  {
+    "formula": "CsFeN3",
+    "elements": [
+      "Cs",
+      "Fe",
+      "N",
+      "N",
+      "N"
+    ],
+    "entropy_hunger": 0.4525,
+    "is_unexplored": false
+  },
+  {
+    "formula": "CsMnN3",
+    "elements": [
+      "Cs",
+      "Mn",
+      "N",
+      "N",
+      "N"
+    ],
+    "entropy_hunger": 0.4525,
+    "is_unexplored": false
+  },
+  {
+    "formula": "CaFeN3",
+    "elements": [
+      "Ca",
+      "Fe",
+      "N",
+      "N",
+      "N"
+    ],
+    "entropy_hunger": 0.4524,
+    "is_unexplored": false
+  },
+  {
+    "formula": "CaMnN3",
+    "elements": [
+      "Ca",
+      "Mn",
+      "N",
+      "N",
+      "N"
+    ],
+    "entropy_hunger": 0.4524,
+    "is_unexplored": false
+  },
+  {
+    "formula": "SrTiN3",
+    "elements": [
+      "Sr",
+      "Ti",
+      "N",
+      "N",
+      "N"
+    ],
+    "entropy_hunger": 0.4523,
+    "is_unexplored": false
+  },
+  {
+    "formula": "CaTiO3",
+    "elements": [
+      "Ca",
+      "Ti",
+      "O",
+      "O",
+      "O"
+    ],
+    "entropy_hunger": 0.4523,
+    "is_unexplored": false
+  },
+  {
+    "formula": "CsNbN3",
+    "elements": [
+      "Cs",
+      "Nb",
+      "N",
+      "N",
+      "N"
+    ],
+    "entropy_hunger": 0.4523,
+    "is_unexplored": false
+  },
+  {
+    "formula": "CsTaN3",
+    "elements": [
+      "Cs",
+      "Ta",
+      "N",
+      "N",
+      "N"
+    ],
+    "entropy_hunger": 0.4523,
+    "is_unexplored": false
+  },
+  {
+    "formula": "CaNbN3",
+    "elements": [
+      "Ca",
+      "Nb",
+      "N",
+      "N",
+      "N"
+    ],
+    "entropy_hunger": 0.4522,
+    "is_unexplored": false
+  },
+  {
+    "formula": "CaTaN3",
+    "elements": [
+      "Ca",
+      "Ta",
+      "N",
+      "N",
+      "N"
+    ],
+    "entropy_hunger": 0.4522,
+    "is_unexplored": false
+  },
+  {
+    "formula": "CsTiO3",
+    "elements": [
+      "Cs",
+      "Ti",
+      "O",
+      "O",
+      "O"
+    ],
+    "entropy_hunger": 0.4514,
+    "is_unexplored": false
+  },
+  {
+    "formula": "LaTiN3",
+    "elements": [
+      "La",
+      "Ti",
+      "N",
+      "N",
+      "N"
+    ],
+    "entropy_hunger": 0.4513,
+    "is_unexplored": false
+  },
+  {
+    "formula": "CsTiN3",
+    "elements": [
+      "Cs",
+      "Ti",
+      "N",
+      "N",
+      "N"
+    ],
+    "entropy_hunger": 0.4511,
+    "is_unexplored": false
+  },
+  {
+    "formula": "CaTiN3",
+    "elements": [
+      "Ca",
+      "Ti",
+      "N",
+      "N",
+      "N"
+    ],
+    "entropy_hunger": 0.451,
+    "is_unexplored": false
+  }
+]

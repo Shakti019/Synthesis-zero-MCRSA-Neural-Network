@@ -1,0 +1,938 @@
+[
+  {
+    "target": "SrZrF3",
+    "precursor_A": "SrCO3",
+    "precursor_B": "ZrO2",
+    "calcination_temp_C": 1073,
+    "reaction_equation": "SrCO3 + ZrO2 --(1073\u00b0C)--> SrZrF3 + CO2\u2191",
+    "tolerance_t": 0.8658,
+    "formation_energy_Ef": -1.375
+  },
+  {
+    "target": "SrHfF3",
+    "precursor_A": "SrCO3",
+    "precursor_B": "HfO2",
+    "calcination_temp_C": 1074,
+    "reaction_equation": "SrCO3 + HfO2 --(1074\u00b0C)--> SrHfF3 + CO2\u2191",
+    "tolerance_t": 0.87,
+    "formation_energy_Ef": -1.3853
+  },
+  {
+    "target": "BaZrF3",
+    "precursor_A": "BaCO3",
+    "precursor_B": "ZrO2",
+    "calcination_temp_C": 1084,
+    "reaction_equation": "BaCO3 + ZrO2 --(1084\u00b0C)--> BaZrF3 + CO2\u2191",
+    "tolerance_t": 0.9244,
+    "formation_energy_Ef": -1.4207
+  },
+  {
+    "target": "KZrF3",
+    "precursor_A": "K2CO3",
+    "precursor_B": "ZrO2",
+    "calcination_temp_C": 1086,
+    "reaction_equation": "K2CO3 + ZrO2 --(1086\u00b0C)--> KZrF3 + CO2\u2191",
+    "tolerance_t": 0.9348,
+    "formation_energy_Ef": -1.4419
+  },
+  {
+    "target": "BaHfF3",
+    "precursor_A": "BaCO3",
+    "precursor_B": "HfO2",
+    "calcination_temp_C": 1085,
+    "reaction_equation": "BaCO3 + HfO2 --(1085\u00b0C)--> BaHfF3 + CO2\u2191",
+    "tolerance_t": 0.9289,
+    "formation_energy_Ef": -1.4299
+  },
+  {
+    "target": "LaZrF3",
+    "precursor_A": "La2O3",
+    "precursor_B": "ZrO2",
+    "calcination_temp_C": 1062,
+    "reaction_equation": "La2O3 + ZrO2 --(1062\u00b0C)--> LaZrF3 + CO2\u2191",
+    "tolerance_t": 0.814,
+    "formation_energy_Ef": -1.296
+  },
+  {
+    "target": "KHfF3",
+    "precursor_A": "K2CO3",
+    "precursor_B": "HfO2",
+    "calcination_temp_C": 1087,
+    "reaction_equation": "K2CO3 + HfO2 --(1087\u00b0C)--> KHfF3 + CO2\u2191",
+    "tolerance_t": 0.9393,
+    "formation_energy_Ef": -1.4508
+  },
+  {
+    "target": "LaHfF3",
+    "precursor_A": "La2O3",
+    "precursor_B": "HfO2",
+    "calcination_temp_C": 1063,
+    "reaction_equation": "La2O3 + HfO2 --(1063\u00b0C)--> LaHfF3 + CO2\u2191",
+    "tolerance_t": 0.818,
+    "formation_energy_Ef": -1.3072
+  },
+  {
+    "target": "SrFeF3",
+    "precursor_A": "SrCO3",
+    "precursor_B": "Fe2O3",
+    "calcination_temp_C": 1079,
+    "reaction_equation": "SrCO3 + Fe2O3 --(1079\u00b0C)--> SrFeF3 + CO2\u2191",
+    "tolerance_t": 0.8987,
+    "formation_energy_Ef": -1.2693
+  },
+  {
+    "target": "SrMnF3",
+    "precursor_A": "SrCO3",
+    "precursor_B": "MnO2",
+    "calcination_temp_C": 1079,
+    "reaction_equation": "SrCO3 + MnO2 --(1079\u00b0C)--> SrMnF3 + CO2\u2191",
+    "tolerance_t": 0.8987,
+    "formation_energy_Ef": -1.3393
+  },
+  {
+    "target": "SrNbF3",
+    "precursor_A": "SrCO3",
+    "precursor_B": "Nb2O5",
+    "calcination_temp_C": 1080,
+    "reaction_equation": "SrCO3 + Nb2O5 --(1080\u00b0C)--> SrNbF3 + CO2\u2191",
+    "tolerance_t": 0.9009,
+    "formation_energy_Ef": -1.328
+  },
+  {
+    "target": "SrTaF3",
+    "precursor_A": "SrCO3",
+    "precursor_B": "Ta2O5",
+    "calcination_temp_C": 1080,
+    "reaction_equation": "SrCO3 + Ta2O5 --(1080\u00b0C)--> SrTaF3 + CO2\u2191",
+    "tolerance_t": 0.9009,
+    "formation_energy_Ef": -1.353
+  },
+  {
+    "target": "BaFeF3",
+    "precursor_A": "BaCO3",
+    "precursor_B": "Fe2O3",
+    "calcination_temp_C": 1091,
+    "reaction_equation": "BaCO3 + Fe2O3 --(1091\u00b0C)--> BaFeF3 + CO2\u2191",
+    "tolerance_t": 0.9595,
+    "formation_energy_Ef": -1.3059
+  },
+  {
+    "target": "BaMnF3",
+    "precursor_A": "BaCO3",
+    "precursor_B": "MnO2",
+    "calcination_temp_C": 1091,
+    "reaction_equation": "BaCO3 + MnO2 --(1091\u00b0C)--> BaMnF3 + CO2\u2191",
+    "tolerance_t": 0.9595,
+    "formation_energy_Ef": -1.3759
+  },
+  {
+    "target": "KFeF3",
+    "precursor_A": "K2CO3",
+    "precursor_B": "Fe2O3",
+    "calcination_temp_C": 1094,
+    "reaction_equation": "K2CO3 + Fe2O3 --(1094\u00b0C)--> KFeF3 + CO2\u2191",
+    "tolerance_t": 0.9703,
+    "formation_energy_Ef": -1.3253
+  },
+  {
+    "target": "KMnF3",
+    "precursor_A": "K2CO3",
+    "precursor_B": "MnO2",
+    "calcination_temp_C": 1094,
+    "reaction_equation": "K2CO3 + MnO2 --(1094\u00b0C)--> KMnF3 + CO2\u2191",
+    "tolerance_t": 0.9703,
+    "formation_energy_Ef": -1.3953
+  },
+  {
+    "target": "BaNbF3",
+    "precursor_A": "BaCO3",
+    "precursor_B": "Nb2O5",
+    "calcination_temp_C": 1092,
+    "reaction_equation": "BaCO3 + Nb2O5 --(1092\u00b0C)--> BaNbF3 + CO2\u2191",
+    "tolerance_t": 0.962,
+    "formation_energy_Ef": -1.3639
+  },
+  {
+    "target": "BaTaF3",
+    "precursor_A": "BaCO3",
+    "precursor_B": "Ta2O5",
+    "calcination_temp_C": 1092,
+    "reaction_equation": "BaCO3 + Ta2O5 --(1092\u00b0C)--> BaTaF3 + CO2\u2191",
+    "tolerance_t": 0.962,
+    "formation_energy_Ef": -1.3889
+  },
+  {
+    "target": "LaFeF3",
+    "precursor_A": "La2O3",
+    "precursor_B": "Fe2O3",
+    "calcination_temp_C": 1068,
+    "reaction_equation": "La2O3 + Fe2O3 --(1068\u00b0C)--> LaFeF3 + CO2\u2191",
+    "tolerance_t": 0.8449,
+    "formation_energy_Ef": -1.1974
+  },
+  {
+    "target": "LaMnF3",
+    "precursor_A": "La2O3",
+    "precursor_B": "MnO2",
+    "calcination_temp_C": 1068,
+    "reaction_equation": "La2O3 + MnO2 --(1068\u00b0C)--> LaMnF3 + CO2\u2191",
+    "tolerance_t": 0.8449,
+    "formation_energy_Ef": -1.2674
+  },
+  {
+    "target": "KNbF3",
+    "precursor_A": "K2CO3",
+    "precursor_B": "Nb2O5",
+    "calcination_temp_C": 1094,
+    "reaction_equation": "K2CO3 + Nb2O5 --(1094\u00b0C)--> KNbF3 + CO2\u2191",
+    "tolerance_t": 0.9727,
+    "formation_energy_Ef": -1.3831
+  },
+  {
+    "target": "KTaF3",
+    "precursor_A": "K2CO3",
+    "precursor_B": "Ta2O5",
+    "calcination_temp_C": 1094,
+    "reaction_equation": "K2CO3 + Ta2O5 --(1094\u00b0C)--> KTaF3 + CO2\u2191",
+    "tolerance_t": 0.9727,
+    "formation_energy_Ef": -1.4081
+  },
+  {
+    "target": "CsZrF3",
+    "precursor_A": "Cs2CO3",
+    "precursor_B": "ZrO2",
+    "calcination_temp_C": 1106,
+    "reaction_equation": "Cs2CO3 + ZrO2 --(1106\u00b0C)--> CsZrF3 + CO2\u2191",
+    "tolerance_t": 1.0348,
+    "formation_energy_Ef": -1.457
+  },
+  {
+    "target": "LaNbF3",
+    "precursor_A": "La2O3",
+    "precursor_B": "Nb2O5",
+    "calcination_temp_C": 1069,
+    "reaction_equation": "La2O3 + Nb2O5 --(1069\u00b0C)--> LaNbF3 + CO2\u2191",
+    "tolerance_t": 0.8471,
+    "formation_energy_Ef": -1.2565
+  },
+  {
+    "target": "LaTaF3",
+    "precursor_A": "La2O3",
+    "precursor_B": "Ta2O5",
+    "calcination_temp_C": 1069,
+    "reaction_equation": "La2O3 + Ta2O5 --(1069\u00b0C)--> LaTaF3 + CO2\u2191",
+    "tolerance_t": 0.8471,
+    "formation_energy_Ef": -1.2815
+  },
+  {
+    "target": "CaFeF3",
+    "precursor_A": "CaCO3",
+    "precursor_B": "Fe2O3",
+    "calcination_temp_C": 1066,
+    "reaction_equation": "CaCO3 + Fe2O3 --(1066\u00b0C)--> CaFeF3 + CO2\u2191",
+    "tolerance_t": 0.8342,
+    "formation_energy_Ef": -1.2138
+  },
+  {
+    "target": "CaMnF3",
+    "precursor_A": "CaCO3",
+    "precursor_B": "MnO2",
+    "calcination_temp_C": 1066,
+    "reaction_equation": "CaCO3 + MnO2 --(1066\u00b0C)--> CaMnF3 + CO2\u2191",
+    "tolerance_t": 0.8342,
+    "formation_energy_Ef": -1.2838
+  },
+  {
+    "target": "CaNbF3",
+    "precursor_A": "CaCO3",
+    "precursor_B": "Nb2O5",
+    "calcination_temp_C": 1067,
+    "reaction_equation": "CaCO3 + Nb2O5 --(1067\u00b0C)--> CaNbF3 + CO2\u2191",
+    "tolerance_t": 0.8363,
+    "formation_energy_Ef": -1.273
+  },
+  {
+    "target": "CaTaF3",
+    "precursor_A": "CaCO3",
+    "precursor_B": "Ta2O5",
+    "calcination_temp_C": 1067,
+    "reaction_equation": "CaCO3 + Ta2O5 --(1067\u00b0C)--> CaTaF3 + CO2\u2191",
+    "tolerance_t": 0.8363,
+    "formation_energy_Ef": -1.298
+  },
+  {
+    "target": "CsHfF3",
+    "precursor_A": "Cs2CO3",
+    "precursor_B": "HfO2",
+    "calcination_temp_C": 1107,
+    "reaction_equation": "Cs2CO3 + HfO2 --(1107\u00b0C)--> CsHfF3 + CO2\u2191",
+    "tolerance_t": 1.0399,
+    "formation_energy_Ef": -1.4635
+  },
+  {
+    "target": "SrTiF3",
+    "precursor_A": "SrCO3",
+    "precursor_B": "TiO2",
+    "calcination_temp_C": 1083,
+    "reaction_equation": "SrCO3 + TiO2 --(1083\u00b0C)--> SrTiF3 + CO2\u2191",
+    "tolerance_t": 0.9172,
+    "formation_energy_Ef": -1.3504
+  },
+  {
+    "target": "BaTiF3",
+    "precursor_A": "BaCO3",
+    "precursor_B": "TiO2",
+    "calcination_temp_C": 1095,
+    "reaction_equation": "BaCO3 + TiO2 --(1095\u00b0C)--> BaTiF3 + CO2\u2191",
+    "tolerance_t": 0.9794,
+    "formation_energy_Ef": -1.3814
+  },
+  {
+    "target": "KTiF3",
+    "precursor_A": "K2CO3",
+    "precursor_B": "TiO2",
+    "calcination_temp_C": 1098,
+    "reaction_equation": "K2CO3 + TiO2 --(1098\u00b0C)--> KTiF3 + CO2\u2191",
+    "tolerance_t": 0.9903,
+    "formation_energy_Ef": -1.3998
+  },
+  {
+    "target": "LaTiF3",
+    "precursor_A": "La2O3",
+    "precursor_B": "TiO2",
+    "calcination_temp_C": 1072,
+    "reaction_equation": "La2O3 + TiO2 --(1072\u00b0C)--> LaTiF3 + CO2\u2191",
+    "tolerance_t": 0.8624,
+    "formation_energy_Ef": -1.2827
+  },
+  {
+    "target": "CaTiF3",
+    "precursor_A": "CaCO3",
+    "precursor_B": "TiO2",
+    "calcination_temp_C": 1070,
+    "reaction_equation": "CaCO3 + TiO2 --(1070\u00b0C)--> CaTiF3 + CO2\u2191",
+    "tolerance_t": 0.8515,
+    "formation_energy_Ef": -1.2998
+  },
+  {
+    "target": "BaZrO3",
+    "precursor_A": "BaCO3",
+    "precursor_B": "ZrO2",
+    "calcination_temp_C": 1083,
+    "reaction_equation": "BaCO3 + ZrO2 --(1083\u00b0C)--> BaZrO3 + CO2\u2191",
+    "tolerance_t": 0.9172,
+    "formation_energy_Ef": -1.1479
+  },
+  {
+    "target": "SrZrO3",
+    "precursor_A": "SrCO3",
+    "precursor_B": "ZrO2",
+    "calcination_temp_C": 1072,
+    "reaction_equation": "SrCO3 + ZrO2 --(1072\u00b0C)--> SrZrO3 + CO2\u2191",
+    "tolerance_t": 0.8605,
+    "formation_energy_Ef": -1.1014
+  },
+  {
+    "target": "KZrO3",
+    "precursor_A": "K2CO3",
+    "precursor_B": "ZrO2",
+    "calcination_temp_C": 1085,
+    "reaction_equation": "K2CO3 + ZrO2 --(1085\u00b0C)--> KZrO3 + CO2\u2191",
+    "tolerance_t": 0.9272,
+    "formation_energy_Ef": -1.1693
+  },
+  {
+    "target": "BaHfO3",
+    "precursor_A": "BaCO3",
+    "precursor_B": "HfO2",
+    "calcination_temp_C": 1084,
+    "reaction_equation": "BaCO3 + HfO2 --(1084\u00b0C)--> BaHfO3 + CO2\u2191",
+    "tolerance_t": 0.9216,
+    "formation_energy_Ef": -1.1571
+  },
+  {
+    "target": "SrHfO3",
+    "precursor_A": "SrCO3",
+    "precursor_B": "HfO2",
+    "calcination_temp_C": 1072,
+    "reaction_equation": "SrCO3 + HfO2 --(1072\u00b0C)--> SrHfO3 + CO2\u2191",
+    "tolerance_t": 0.8646,
+    "formation_energy_Ef": -1.1117
+  },
+  {
+    "target": "KHfO3",
+    "precursor_A": "K2CO3",
+    "precursor_B": "HfO2",
+    "calcination_temp_C": 1086,
+    "reaction_equation": "K2CO3 + HfO2 --(1086\u00b0C)--> KHfO3 + CO2\u2191",
+    "tolerance_t": 0.9316,
+    "formation_energy_Ef": -1.1783
+  },
+  {
+    "target": "BaZrN3",
+    "precursor_A": "BaCO3",
+    "precursor_B": "ZrO2",
+    "calcination_temp_C": 1082,
+    "reaction_equation": "BaCO3 + ZrO2 --(1082\u00b0C)--> BaZrN3 + CO2\u2191",
+    "tolerance_t": 0.9115,
+    "formation_energy_Ef": -0.9454
+  },
+  {
+    "target": "KZrN3",
+    "precursor_A": "K2CO3",
+    "precursor_B": "ZrO2",
+    "calcination_temp_C": 1084,
+    "reaction_equation": "K2CO3 + ZrO2 --(1084\u00b0C)--> KZrN3 + CO2\u2191",
+    "tolerance_t": 0.9212,
+    "formation_energy_Ef": -0.967
+  },
+  {
+    "target": "LaZrO3",
+    "precursor_A": "La2O3",
+    "precursor_B": "ZrO2",
+    "calcination_temp_C": 1062,
+    "reaction_equation": "La2O3 + ZrO2 --(1062\u00b0C)--> LaZrO3 + CO2\u2191",
+    "tolerance_t": 0.8105,
+    "formation_energy_Ef": -1.0227
+  },
+  {
+    "target": "BaHfN3",
+    "precursor_A": "BaCO3",
+    "precursor_B": "HfO2",
+    "calcination_temp_C": 1083,
+    "reaction_equation": "BaCO3 + HfO2 --(1083\u00b0C)--> BaHfN3 + CO2\u2191",
+    "tolerance_t": 0.9157,
+    "formation_energy_Ef": -0.9547
+  },
+  {
+    "target": "SrZrN3",
+    "precursor_A": "SrCO3",
+    "precursor_B": "ZrO2",
+    "calcination_temp_C": 1071,
+    "reaction_equation": "SrCO3 + ZrO2 --(1071\u00b0C)--> SrZrN3 + CO2\u2191",
+    "tolerance_t": 0.8563,
+    "formation_energy_Ef": -0.8984
+  },
+  {
+    "target": "KHfN3",
+    "precursor_A": "K2CO3",
+    "precursor_B": "HfO2",
+    "calcination_temp_C": 1085,
+    "reaction_equation": "K2CO3 + HfO2 --(1085\u00b0C)--> KHfN3 + CO2\u2191",
+    "tolerance_t": 0.9254,
+    "formation_energy_Ef": -0.9761
+  },
+  {
+    "target": "LaHfO3",
+    "precursor_A": "La2O3",
+    "precursor_B": "HfO2",
+    "calcination_temp_C": 1062,
+    "reaction_equation": "La2O3 + HfO2 --(1062\u00b0C)--> LaHfO3 + CO2\u2191",
+    "tolerance_t": 0.8143,
+    "formation_energy_Ef": -1.0338
+  },
+  {
+    "target": "SrHfN3",
+    "precursor_A": "SrCO3",
+    "precursor_B": "HfO2",
+    "calcination_temp_C": 1072,
+    "reaction_equation": "SrCO3 + HfO2 --(1072\u00b0C)--> SrHfN3 + CO2\u2191",
+    "tolerance_t": 0.8603,
+    "formation_energy_Ef": -0.9087
+  },
+  {
+    "target": "CsZrO3",
+    "precursor_A": "Cs2CO3",
+    "precursor_B": "ZrO2",
+    "calcination_temp_C": 1104,
+    "reaction_equation": "Cs2CO3 + ZrO2 --(1104\u00b0C)--> CsZrO3 + CO2\u2191",
+    "tolerance_t": 1.024,
+    "formation_energy_Ef": -1.1886
+  },
+  {
+    "target": "CsZrN3",
+    "precursor_A": "Cs2CO3",
+    "precursor_B": "ZrO2",
+    "calcination_temp_C": 1103,
+    "reaction_equation": "Cs2CO3 + ZrO2 --(1103\u00b0C)--> CsZrN3 + CO2\u2191",
+    "tolerance_t": 1.0152,
+    "formation_energy_Ef": -0.9894
+  },
+  {
+    "target": "CsHfO3",
+    "precursor_A": "Cs2CO3",
+    "precursor_B": "HfO2",
+    "calcination_temp_C": 1105,
+    "reaction_equation": "Cs2CO3 + HfO2 --(1105\u00b0C)--> CsHfO3 + CO2\u2191",
+    "tolerance_t": 1.0288,
+    "formation_energy_Ef": -1.1954
+  },
+  {
+    "target": "BaFeO3",
+    "precursor_A": "BaCO3",
+    "precursor_B": "Fe2O3",
+    "calcination_temp_C": 1090,
+    "reaction_equation": "BaCO3 + Fe2O3 --(1090\u00b0C)--> BaFeO3 + CO2\u2191",
+    "tolerance_t": 0.9509,
+    "formation_energy_Ef": -1.034
+  },
+  {
+    "target": "BaMnO3",
+    "precursor_A": "BaCO3",
+    "precursor_B": "MnO2",
+    "calcination_temp_C": 1090,
+    "reaction_equation": "BaCO3 + MnO2 --(1090\u00b0C)--> BaMnO3 + CO2\u2191",
+    "tolerance_t": 0.9509,
+    "formation_energy_Ef": -1.104
+  },
+  {
+    "target": "SrFeO3",
+    "precursor_A": "SrCO3",
+    "precursor_B": "Fe2O3",
+    "calcination_temp_C": 1078,
+    "reaction_equation": "SrCO3 + Fe2O3 --(1078\u00b0C)--> SrFeO3 + CO2\u2191",
+    "tolerance_t": 0.8921,
+    "formation_energy_Ef": -0.9959
+  },
+  {
+    "target": "SrMnO3",
+    "precursor_A": "SrCO3",
+    "precursor_B": "MnO2",
+    "calcination_temp_C": 1078,
+    "reaction_equation": "SrCO3 + MnO2 --(1078\u00b0C)--> SrMnO3 + CO2\u2191",
+    "tolerance_t": 0.8921,
+    "formation_energy_Ef": -1.0659
+  },
+  {
+    "target": "LaHfN3",
+    "precursor_A": "La2O3",
+    "precursor_B": "HfO2",
+    "calcination_temp_C": 1062,
+    "reaction_equation": "La2O3 + HfO2 --(1062\u00b0C)--> LaHfN3 + CO2\u2191",
+    "tolerance_t": 0.8114,
+    "formation_energy_Ef": -0.8311
+  },
+  {
+    "target": "KFeO3",
+    "precursor_A": "K2CO3",
+    "precursor_B": "Fe2O3",
+    "calcination_temp_C": 1092,
+    "reaction_equation": "K2CO3 + Fe2O3 --(1092\u00b0C)--> KFeO3 + CO2\u2191",
+    "tolerance_t": 0.9613,
+    "formation_energy_Ef": -1.0537
+  },
+  {
+    "target": "KMnO3",
+    "precursor_A": "K2CO3",
+    "precursor_B": "MnO2",
+    "calcination_temp_C": 1092,
+    "reaction_equation": "K2CO3 + MnO2 --(1092\u00b0C)--> KMnO3 + CO2\u2191",
+    "tolerance_t": 0.9613,
+    "formation_energy_Ef": -1.1237
+  },
+  {
+    "target": "BaNbO3",
+    "precursor_A": "BaCO3",
+    "precursor_B": "Nb2O5",
+    "calcination_temp_C": 1090,
+    "reaction_equation": "BaCO3 + Nb2O5 --(1090\u00b0C)--> BaNbO3 + CO2\u2191",
+    "tolerance_t": 0.9532,
+    "formation_energy_Ef": -1.092
+  },
+  {
+    "target": "BaTaO3",
+    "precursor_A": "BaCO3",
+    "precursor_B": "Ta2O5",
+    "calcination_temp_C": 1090,
+    "reaction_equation": "BaCO3 + Ta2O5 --(1090\u00b0C)--> BaTaO3 + CO2\u2191",
+    "tolerance_t": 0.9532,
+    "formation_energy_Ef": -1.117
+  },
+  {
+    "target": "SrNbO3",
+    "precursor_A": "SrCO3",
+    "precursor_B": "Nb2O5",
+    "calcination_temp_C": 1078,
+    "reaction_equation": "SrCO3 + Nb2O5 --(1078\u00b0C)--> SrNbO3 + CO2\u2191",
+    "tolerance_t": 0.8943,
+    "formation_energy_Ef": -1.0546
+  },
+  {
+    "target": "SrTaO3",
+    "precursor_A": "SrCO3",
+    "precursor_B": "Ta2O5",
+    "calcination_temp_C": 1078,
+    "reaction_equation": "SrCO3 + Ta2O5 --(1078\u00b0C)--> SrTaO3 + CO2\u2191",
+    "tolerance_t": 0.8943,
+    "formation_energy_Ef": -1.0796
+  },
+  {
+    "target": "KNbO3",
+    "precursor_A": "K2CO3",
+    "precursor_B": "Nb2O5",
+    "calcination_temp_C": 1092,
+    "reaction_equation": "K2CO3 + Nb2O5 --(1092\u00b0C)--> KNbO3 + CO2\u2191",
+    "tolerance_t": 0.9636,
+    "formation_energy_Ef": -1.1117
+  },
+  {
+    "target": "KTaO3",
+    "precursor_A": "K2CO3",
+    "precursor_B": "Ta2O5",
+    "calcination_temp_C": 1092,
+    "reaction_equation": "K2CO3 + Ta2O5 --(1092\u00b0C)--> KTaO3 + CO2\u2191",
+    "tolerance_t": 0.9636,
+    "formation_energy_Ef": -1.1367
+  },
+  {
+    "target": "CsHfN3",
+    "precursor_A": "Cs2CO3",
+    "precursor_B": "HfO2",
+    "calcination_temp_C": 1103,
+    "reaction_equation": "Cs2CO3 + HfO2 --(1103\u00b0C)--> CsHfN3 + CO2\u2191",
+    "tolerance_t": 1.0199,
+    "formation_energy_Ef": -0.9965
+  },
+  {
+    "target": "BaFeN3",
+    "precursor_A": "BaCO3",
+    "precursor_B": "Fe2O3",
+    "calcination_temp_C": 1088,
+    "reaction_equation": "BaCO3 + Fe2O3 --(1088\u00b0C)--> BaFeN3 + CO2\u2191",
+    "tolerance_t": 0.9439,
+    "formation_energy_Ef": -0.8321
+  },
+  {
+    "target": "BaMnN3",
+    "precursor_A": "BaCO3",
+    "precursor_B": "MnO2",
+    "calcination_temp_C": 1088,
+    "reaction_equation": "BaCO3 + MnO2 --(1088\u00b0C)--> BaMnN3 + CO2\u2191",
+    "tolerance_t": 0.9439,
+    "formation_energy_Ef": -0.9021
+  },
+  {
+    "target": "LaFeO3",
+    "precursor_A": "La2O3",
+    "precursor_B": "Fe2O3",
+    "calcination_temp_C": 1068,
+    "reaction_equation": "La2O3 + Fe2O3 --(1068\u00b0C)--> LaFeO3 + CO2\u2191",
+    "tolerance_t": 0.8402,
+    "formation_energy_Ef": -0.9237
+  },
+  {
+    "target": "LaMnO3",
+    "precursor_A": "La2O3",
+    "precursor_B": "MnO2",
+    "calcination_temp_C": 1068,
+    "reaction_equation": "La2O3 + MnO2 --(1068\u00b0C)--> LaMnO3 + CO2\u2191",
+    "tolerance_t": 0.8402,
+    "formation_energy_Ef": -0.9937
+  },
+  {
+    "target": "KFeN3",
+    "precursor_A": "K2CO3",
+    "precursor_B": "Fe2O3",
+    "calcination_temp_C": 1090,
+    "reaction_equation": "K2CO3 + Fe2O3 --(1090\u00b0C)--> KFeN3 + CO2\u2191",
+    "tolerance_t": 0.954,
+    "formation_energy_Ef": -0.8522
+  },
+  {
+    "target": "KMnN3",
+    "precursor_A": "K2CO3",
+    "precursor_B": "MnO2",
+    "calcination_temp_C": 1090,
+    "reaction_equation": "K2CO3 + MnO2 --(1090\u00b0C)--> KMnN3 + CO2\u2191",
+    "tolerance_t": 0.954,
+    "formation_energy_Ef": -0.9222
+  },
+  {
+    "target": "BaNbN3",
+    "precursor_A": "BaCO3",
+    "precursor_B": "Nb2O5",
+    "calcination_temp_C": 1089,
+    "reaction_equation": "BaCO3 + Nb2O5 --(1089\u00b0C)--> BaNbN3 + CO2\u2191",
+    "tolerance_t": 0.9462,
+    "formation_energy_Ef": -0.8903
+  },
+  {
+    "target": "BaTaN3",
+    "precursor_A": "BaCO3",
+    "precursor_B": "Ta2O5",
+    "calcination_temp_C": 1089,
+    "reaction_equation": "BaCO3 + Ta2O5 --(1089\u00b0C)--> BaTaN3 + CO2\u2191",
+    "tolerance_t": 0.9462,
+    "formation_energy_Ef": -0.9153
+  },
+  {
+    "target": "LaNbO3",
+    "precursor_A": "La2O3",
+    "precursor_B": "Nb2O5",
+    "calcination_temp_C": 1068,
+    "reaction_equation": "La2O3 + Nb2O5 --(1068\u00b0C)--> LaNbO3 + CO2\u2191",
+    "tolerance_t": 0.8423,
+    "formation_energy_Ef": -0.9828
+  },
+  {
+    "target": "LaTaO3",
+    "precursor_A": "La2O3",
+    "precursor_B": "Ta2O5",
+    "calcination_temp_C": 1068,
+    "reaction_equation": "La2O3 + Ta2O5 --(1068\u00b0C)--> LaTaO3 + CO2\u2191",
+    "tolerance_t": 0.8423,
+    "formation_energy_Ef": -1.0078
+  },
+  {
+    "target": "SrFeN3",
+    "precursor_A": "SrCO3",
+    "precursor_B": "Fe2O3",
+    "calcination_temp_C": 1077,
+    "reaction_equation": "SrCO3 + Fe2O3 --(1077\u00b0C)--> SrFeN3 + CO2\u2191",
+    "tolerance_t": 0.8868,
+    "formation_energy_Ef": -0.793
+  },
+  {
+    "target": "SrMnN3",
+    "precursor_A": "SrCO3",
+    "precursor_B": "MnO2",
+    "calcination_temp_C": 1077,
+    "reaction_equation": "SrCO3 + MnO2 --(1077\u00b0C)--> SrMnN3 + CO2\u2191",
+    "tolerance_t": 0.8868,
+    "formation_energy_Ef": -0.863
+  },
+  {
+    "target": "KNbN3",
+    "precursor_A": "K2CO3",
+    "precursor_B": "Nb2O5",
+    "calcination_temp_C": 1091,
+    "reaction_equation": "K2CO3 + Nb2O5 --(1091\u00b0C)--> KNbN3 + CO2\u2191",
+    "tolerance_t": 0.9563,
+    "formation_energy_Ef": -0.9102
+  },
+  {
+    "target": "KTaN3",
+    "precursor_A": "K2CO3",
+    "precursor_B": "Ta2O5",
+    "calcination_temp_C": 1091,
+    "reaction_equation": "K2CO3 + Ta2O5 --(1091\u00b0C)--> KTaN3 + CO2\u2191",
+    "tolerance_t": 0.9563,
+    "formation_energy_Ef": -0.9352
+  },
+  {
+    "target": "CaFeO3",
+    "precursor_A": "CaCO3",
+    "precursor_B": "Fe2O3",
+    "calcination_temp_C": 1065,
+    "reaction_equation": "CaCO3 + Fe2O3 --(1065\u00b0C)--> CaFeO3 + CO2\u2191",
+    "tolerance_t": 0.8299,
+    "formation_energy_Ef": -0.9401
+  },
+  {
+    "target": "CaMnO3",
+    "precursor_A": "CaCO3",
+    "precursor_B": "MnO2",
+    "calcination_temp_C": 1065,
+    "reaction_equation": "CaCO3 + MnO2 --(1065\u00b0C)--> CaMnO3 + CO2\u2191",
+    "tolerance_t": 0.8299,
+    "formation_energy_Ef": -1.0101
+  },
+  {
+    "target": "SrNbN3",
+    "precursor_A": "SrCO3",
+    "precursor_B": "Nb2O5",
+    "calcination_temp_C": 1077,
+    "reaction_equation": "SrCO3 + Nb2O5 --(1077\u00b0C)--> SrNbN3 + CO2\u2191",
+    "tolerance_t": 0.8889,
+    "formation_energy_Ef": -0.8517
+  },
+  {
+    "target": "SrTaN3",
+    "precursor_A": "SrCO3",
+    "precursor_B": "Ta2O5",
+    "calcination_temp_C": 1077,
+    "reaction_equation": "SrCO3 + Ta2O5 --(1077\u00b0C)--> SrTaN3 + CO2\u2191",
+    "tolerance_t": 0.8889,
+    "formation_energy_Ef": -0.8767
+  },
+  {
+    "target": "CaNbO3",
+    "precursor_A": "CaCO3",
+    "precursor_B": "Nb2O5",
+    "calcination_temp_C": 1066,
+    "reaction_equation": "CaCO3 + Nb2O5 --(1066\u00b0C)--> CaNbO3 + CO2\u2191",
+    "tolerance_t": 0.8319,
+    "formation_energy_Ef": -0.9993
+  },
+  {
+    "target": "CaTaO3",
+    "precursor_A": "CaCO3",
+    "precursor_B": "Ta2O5",
+    "calcination_temp_C": 1066,
+    "reaction_equation": "CaCO3 + Ta2O5 --(1066\u00b0C)--> CaTaO3 + CO2\u2191",
+    "tolerance_t": 0.8319,
+    "formation_energy_Ef": -1.0243
+  },
+  {
+    "target": "BaTiO3",
+    "precursor_A": "BaCO3",
+    "precursor_B": "TiO2",
+    "calcination_temp_C": 1093,
+    "reaction_equation": "BaCO3 + TiO2 --(1093\u00b0C)--> BaTiO3 + CO2\u2191",
+    "tolerance_t": 0.9698,
+    "formation_energy_Ef": -1.1102
+  },
+  {
+    "target": "SrTiO3",
+    "precursor_A": "SrCO3",
+    "precursor_B": "TiO2",
+    "calcination_temp_C": 1081,
+    "reaction_equation": "SrCO3 + TiO2 --(1081\u00b0C)--> SrTiO3 + CO2\u2191",
+    "tolerance_t": 0.9099,
+    "formation_energy_Ef": -1.0772
+  },
+  {
+    "target": "KTiO3",
+    "precursor_A": "K2CO3",
+    "precursor_B": "TiO2",
+    "calcination_temp_C": 1096,
+    "reaction_equation": "K2CO3 + TiO2 --(1096\u00b0C)--> KTiO3 + CO2\u2191",
+    "tolerance_t": 0.9804,
+    "formation_energy_Ef": -1.129
+  },
+  {
+    "target": "LaFeN3",
+    "precursor_A": "La2O3",
+    "precursor_B": "Fe2O3",
+    "calcination_temp_C": 1067,
+    "reaction_equation": "La2O3 + Fe2O3 --(1067\u00b0C)--> LaFeN3 + CO2\u2191",
+    "tolerance_t": 0.8364,
+    "formation_energy_Ef": -0.7206
+  },
+  {
+    "target": "LaMnN3",
+    "precursor_A": "La2O3",
+    "precursor_B": "MnO2",
+    "calcination_temp_C": 1067,
+    "reaction_equation": "La2O3 + MnO2 --(1067\u00b0C)--> LaMnN3 + CO2\u2191",
+    "tolerance_t": 0.8364,
+    "formation_energy_Ef": -0.7906
+  },
+  {
+    "target": "BaTiN3",
+    "precursor_A": "BaCO3",
+    "precursor_B": "TiO2",
+    "calcination_temp_C": 1092,
+    "reaction_equation": "BaCO3 + TiO2 --(1092\u00b0C)--> BaTiN3 + CO2\u2191",
+    "tolerance_t": 0.9622,
+    "formation_energy_Ef": -0.9089
+  },
+  {
+    "target": "LaTiO3",
+    "precursor_A": "La2O3",
+    "precursor_B": "TiO2",
+    "calcination_temp_C": 1071,
+    "reaction_equation": "La2O3 + TiO2 --(1071\u00b0C)--> LaTiO3 + CO2\u2191",
+    "tolerance_t": 0.857,
+    "formation_energy_Ef": -1.0089
+  },
+  {
+    "target": "LaNbN3",
+    "precursor_A": "La2O3",
+    "precursor_B": "Nb2O5",
+    "calcination_temp_C": 1067,
+    "reaction_equation": "La2O3 + Nb2O5 --(1067\u00b0C)--> LaNbN3 + CO2\u2191",
+    "tolerance_t": 0.8384,
+    "formation_energy_Ef": -0.7797
+  },
+  {
+    "target": "LaTaN3",
+    "precursor_A": "La2O3",
+    "precursor_B": "Ta2O5",
+    "calcination_temp_C": 1067,
+    "reaction_equation": "La2O3 + Ta2O5 --(1067\u00b0C)--> LaTaN3 + CO2\u2191",
+    "tolerance_t": 0.8384,
+    "formation_energy_Ef": -0.8047
+  },
+  {
+    "target": "KTiN3",
+    "precursor_A": "K2CO3",
+    "precursor_B": "TiO2",
+    "calcination_temp_C": 1094,
+    "reaction_equation": "K2CO3 + TiO2 --(1094\u00b0C)--> KTiN3 + CO2\u2191",
+    "tolerance_t": 0.9725,
+    "formation_energy_Ef": -0.9281
+  },
+  {
+    "target": "CaFeN3",
+    "precursor_A": "CaCO3",
+    "precursor_B": "Fe2O3",
+    "calcination_temp_C": 1065,
+    "reaction_equation": "CaCO3 + Fe2O3 --(1065\u00b0C)--> CaFeN3 + CO2\u2191",
+    "tolerance_t": 0.8264,
+    "formation_energy_Ef": -0.7371
+  },
+  {
+    "target": "CaMnN3",
+    "precursor_A": "CaCO3",
+    "precursor_B": "MnO2",
+    "calcination_temp_C": 1065,
+    "reaction_equation": "CaCO3 + MnO2 --(1065\u00b0C)--> CaMnN3 + CO2\u2191",
+    "tolerance_t": 0.8264,
+    "formation_energy_Ef": -0.8071
+  },
+  {
+    "target": "SrTiN3",
+    "precursor_A": "SrCO3",
+    "precursor_B": "TiO2",
+    "calcination_temp_C": 1080,
+    "reaction_equation": "SrCO3 + TiO2 --(1080\u00b0C)--> SrTiN3 + CO2\u2191",
+    "tolerance_t": 0.904,
+    "formation_energy_Ef": -0.8745
+  },
+  {
+    "target": "CaTiO3",
+    "precursor_A": "CaCO3",
+    "precursor_B": "TiO2",
+    "calcination_temp_C": 1069,
+    "reaction_equation": "CaCO3 + TiO2 --(1069\u00b0C)--> CaTiO3 + CO2\u2191",
+    "tolerance_t": 0.8464,
+    "formation_energy_Ef": -1.026
+  },
+  {
+    "target": "CaNbN3",
+    "precursor_A": "CaCO3",
+    "precursor_B": "Nb2O5",
+    "calcination_temp_C": 1065,
+    "reaction_equation": "CaCO3 + Nb2O5 --(1065\u00b0C)--> CaNbN3 + CO2\u2191",
+    "tolerance_t": 0.8283,
+    "formation_energy_Ef": -0.7963
+  },
+  {
+    "target": "CaTaN3",
+    "precursor_A": "CaCO3",
+    "precursor_B": "Ta2O5",
+    "calcination_temp_C": 1065,
+    "reaction_equation": "CaCO3 + Ta2O5 --(1065\u00b0C)--> CaTaN3 + CO2\u2191",
+    "tolerance_t": 0.8283,
+    "formation_energy_Ef": -0.8213
+  },
+  {
+    "target": "LaTiN3",
+    "precursor_A": "La2O3",
+    "precursor_B": "TiO2",
+    "calcination_temp_C": 1070,
+    "reaction_equation": "La2O3 + TiO2 --(1070\u00b0C)--> LaTiN3 + CO2\u2191",
+    "tolerance_t": 0.8526,
+    "formation_energy_Ef": -0.8057
+  },
+  {
+    "target": "CaTiN3",
+    "precursor_A": "CaCO3",
+    "precursor_B": "TiO2",
+    "calcination_temp_C": 1068,
+    "reaction_equation": "CaCO3 + TiO2 --(1068\u00b0C)--> CaTiN3 + CO2\u2191",
+    "tolerance_t": 0.8424,
+    "formation_energy_Ef": -0.8229
+  }
+]

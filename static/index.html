@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Synthesis zero · Autonomous Material Redesign</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,600;1,700;1,800;1,900&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body class="page-body">
+
+    <!-- ============================================================ -->
+    <!-- PAGE 1: HOME / CONNECTION SCREEN (RESTORED EXACT ORIGINAL)  -->
+    <!-- ============================================================ -->
+    <div id="homePage" class="screen-view active-screen">
+        <!-- Top Navbar: Big app name, italic + Inter mix, yellow characters -->
+        <header class="home-topbar">
+            <div class="home-brand">
+                <span class="brand-synthesis">Synthesis</span> <span class="brand-zero">ze<span class="yellow-char">ro</span></span>
+            </div>
+            <div class="home-top-corner">
+                <span class="corner-yellow-code">SYSTEM // 00</span>
+            </div>
+        </header>
+
+        <!-- Main Hero Section: Left instructions, center thick black vertical line, right big QR -->
+        <main class="home-split-stage">
+            <!-- Left Side: Connection Instructions & Bullet Points -->
+            <section class="home-left-col">
+                <h2 class="protocol-title">Connection Protocol</h2>
+                <p class="protocol-desc">Direct peer synchronization between smartphone camera optics and MCRSA neural network intelligence.</p>
+
+                <ul class="protocol-steps">
+                    <li>
+                        <span class="step-num">01</span>
+                        <div class="step-body">
+                            <strong>Local Network Alignment</strong>
+                            <p>Connect your computer and mobile phone to the same local Wi-Fi or personal hotspot network.</p>
+                        </div>
+                    </li>
+                    <li>
+                        <span class="step-num">02</span>
+                        <div class="step-body">
+                            <strong>Optical QR Scanning</strong>
+                            <p>Open your smartphone default camera and frame the QR code shown on the right.</p>
+                        </div>
+                    </li>
+                    <li>
+                        <span class="step-num">03</span>
+                        <div class="step-body">
+                            <strong>Automatic Device Handshake</strong>
+                            <p>Open the scanner link. This workstation instantly detects your device connection in real time.</p>
+                        </div>
+                    </li>
+                    <li>
+                        <span class="step-num">04</span>
+                        <div class="step-body">
+                            <strong>Real-World 3D Reconstruction</strong>
+                            <p>Capture physical materials, metals, polymers, or crystal allotropes to generate 3D atomic lattices and synthesis equations.</p>
+                        </div>
+                    </li>
+                </ul>
+
+                <div class="direct-url-strip">
+                    <span class="strip-label">Direct Portal Address:</span>
+                    <code id="homeDirectUrl" class="strip-code">http://...:5000/camera</code>
+                </div>
+
+                <div class="test-controls">
+                    <button id="btnSimulatePhone" class="btn-subtle-link">Simulate Phone Connection (Testing)</button>
+                </div>
+            </section>
+
+            <!-- Center Vertical Separation: Thick black line, not full page height -->
+            <div class="center-black-divider" aria-hidden="true"></div>
+
+            <!-- Right Side: Big QR Code or Connected Phone Graphic -->
+            <section class="home-right-col">
+                <!-- State A: Big QR Code before connection -->
+                <div id="qrStageBox" class="qr-stage-wrapper">
+                    <div class="qr-frame">
+                        <img id="mainQrCodeImg" src="/api/qr_code" alt="Scan QR Code to Connect Phone" width="280" height="280">
+                    </div>
+                    <div class="qr-meta-caption">
+                        <span class="qr-pulse-dot"></span>
+                        <span>Waiting for phone scan</span>
+                    </div>
+                </div>
+
+                <!-- State B: Connected Phone Graphic & Blinking Yellow Continue Button -->
+                <div id="connectedStageBox" class="connected-stage-wrapper" style="display: none;">
+                    <div class="phone-graphic-container">
+                        <svg class="phone-svg" width="160" height="260" viewBox="0 0 160 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <!-- Outer Phone Shell -->
+                            <rect x="8" y="8" width="144" height="244" rx="28" stroke="#000000" stroke-width="4" fill="#ffffff" />
+                            <!-- Inner Display Screen -->
+                            <rect x="18" y="24" width="124" height="212" rx="18" fill="#f9fafb" />
+                            <!-- Dynamic Island / Speaker Pill -->
+                            <rect x="54" y="14" width="52" height="5" rx="2.5" fill="#000000" />
+                            <!-- Sync Ring Accent in Yellow -->
+                            <circle cx="80" cy="112" r="32" stroke="#eab308" stroke-width="3" stroke-dasharray="5 4" />
+                            <circle cx="80" cy="112" r="16" fill="#facc15" />
+                            <!-- Checkmark inside yellow circle -->
+                            <path d="M73 112L78 117L88 107" stroke="#000000" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" />
+                            <!-- Screen Text -->
+                            <text x="80" y="162" text-anchor="middle" font-family="'Inter', sans-serif" font-weight="800" font-size="12" fill="#000000">LINK ACTIVE</text>
+                            <text x="80" y="179" text-anchor="middle" font-family="'Inter', sans-serif" font-weight="500" font-size="10" fill="#6b7280">Camera Stream Synced</text>
+                            <!-- Home Bar -->
+                            <rect x="52" y="222" width="56" height="4" rx="2" fill="#000000" />
+                        </svg>
+                    </div>
+
+                    <div class="device-status-headline">
+                        <span class="device-tag">DEVICE CONNECTED</span>
+                        <h3 id="detectedPhoneLabel" class="device-name-display">Apple iPhone</h3>
+                        <p class="device-desc-sub">Wireless companion active. Ready to transmit optical material data.</p>
+                    </div>
+
+                    <!-- Blinking Yellow Continue Button -->
+                    <button id="btnContinueToStudio" class="btn-yellow-blink">
+                        Continue to Studio
+                    </button>
+                </div>
+            </section>
+        </main>
+
+        <footer class="home-bottom-strip">
+            <button id="btnSkipDirect" class="btn-flat-link">Open Studio directly &rarr;</button>
+        </footer>
+    </div>
+
+
+    <!-- ============================================================ -->
+    <!-- PAGE 2: STUDIO / MATERIAL REDESIGN (TWO-HALF SCREEN, WHITE)  -->
+    <!-- ============================================================ -->
+    <div id="studioPage" class="screen-view" style="display: none;">
+        <!-- Studio Minimal Topbar -->
+        <header class="studio-topbar">
+            <div class="studio-brand">
+                <span class="brand-synthesis">Synthesis</span> <span class="brand-zero">ze<span class="yellow-char">ro</span></span>
+            </div>
+
+            <div class="studio-device-strip">
+                <span class="receiver-pulse-dot"></span>
+                <span class="receiver-title">MATERIAL RECEIVER SYNCED</span>
+                <span class="receiver-meta" id="valScanSource">Smartphone Camera Stream</span>
+            </div>
+
+            <div class="studio-actions-strip">
+                <button class="nav-text-link" id="btnNavReconnect">&larr; Connect Phone</button>
+            </div>
+        </header>
+
+        <!-- STATE A: Waiting for Material Photo in Studio -->
+        <div class="studio-waiting-state" id="studioWaitingBox">
+            <div class="waiting-prompt-center">
+                <h2 class="waiting-title">Waiting for Material</h2>
+                <p class="waiting-sub">Capture a product photo with your phone or drop an image below to start redesign.</p>
+                
+                <div class="clean-dropzone-minimal" id="desktopDropZone">
+                    <input type="file" id="desktopFileInput" accept="image/*" hidden>
+                    <span>Click or drop product photo here</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- STATE B: TWO-HALF SCREEN (WHITE BACKGROUND, ONE LINE VERTICAL DIVIDER, NO BOX STYLE) -->
+        <main class="studio-split-container" id="studioSplitBox" style="display: none;">
+            <div class="studio-two-halves">
+                <!-- LEFT HALF: Optical Photo + Physical Structure Sketch -->
+                <section class="studio-left-pane">
+                <div class="left-pane-header">
+                    <div class="view-toggles-row">
+                        <button class="toggle-pill active" id="btnViewPhoto">Optical Image</button>
+                        <button class="toggle-pill" id="btnViewBlueprint">Physical Structure Sketch</button>
+                    </div>
+                </div>
+
+                <div class="left-media-wrapper">
+                    <img id="capturedProductImg" class="material-media-img" src="" alt="Captured Product Image">
+                    <img id="cadBlueprintImg" class="material-media-img" src="" alt="2D Molecular Projection Blueprint" style="display: none;">
+                </div>
+
+                <!-- Left pane content without embedded button -->
+            </section>
+
+            <!-- ONE LINE VERTICAL DIVIDER (NOT FULL SCREEN HEIGHT) -->
+            <div class="vertical-center-line" aria-hidden="true"></div>
+
+            <!-- RIGHT HALF: 3D Atomic Lattice on Pure White Background + Plain Borderless Results -->
+            <section class="studio-right-pane">
+                <div class="right-pane-header">
+                    <div class="structure-toggle-row" id="structureToggleRow" style="display: none;">
+                        <button class="struct-toggle-btn active" id="btnShowBaseline">Baseline Molecular</button>
+                        <span class="struct-arrow">&rarr;</span>
+                        <button class="struct-toggle-btn" id="btnShowRedesign">AI Rearranged Superlattice</button>
+                    </div>
+
+                    <div class="three-toolbar-row">
+                        <span class="three-count" id="hudAtomCount">-- Atoms · -- Bonds</span>
+                        <button class="btn-toolbar-text" id="btnToggleSpin">Spin: On</button>
+                        <button class="btn-toolbar-text" id="btnResetCamera">Reset</button>
+                    </div>
+                </div>
+
+                <!-- 3D WebGL Canvas on Pure White Background -->
+                <div class="studio-three-canvas-mount" id="canvasStage">
+                    <canvas id="threeStudioCanvas"></canvas>
+                </div>
+
+                <!-- Plain Borderless Results (NO BOX STYLE, NO CARDS, PURE WHITE) -->
+                <div class="plain-borderless-specs">
+                    <div class="specs-title-row">
+                        <span class="specs-category-label" id="hudCategory">Polymer</span>
+                        <h2 class="specs-material-name" id="hudMaterialName">Analyzing Material...</h2>
+                    </div>
+
+                    <div class="specs-metrics-grid">
+                        <div class="spec-col">
+                            <span class="spec-label">Formula</span>
+                            <strong class="spec-val" id="valFormulaDisplay">--</strong>
+                        </div>
+
+                        <div class="spec-col">
+                            <span class="spec-label">Baseline Energy</span>
+                            <strong class="spec-val" id="valBaselineEnergy">-- eV/atom</strong>
+                        </div>
+
+                        <div class="spec-col">
+                            <span class="spec-label">Relaxed Energy</span>
+                            <strong class="spec-val text-blue" id="valRelaxedEnergy">-- eV/atom</strong>
+                        </div>
+
+                        <div class="spec-col">
+                            <span class="spec-label">Energy Delta (ΔEf)</span>
+                            <strong class="spec-val text-green" id="valEnergyGain">-- eV/atom</strong>
+                        </div>
+
+                        <div class="spec-col">
+                            <span class="spec-label">Mean Atomic Shift</span>
+                            <strong class="spec-val" id="valMeanDisplacement">-- Å</strong>
+                        </div>
+
+                        <div class="spec-col">
+                            <span class="spec-label">Max Atomic Shift</span>
+                            <strong class="spec-val" id="valMaxDisplacement">-- Å</strong>
+                        </div>
+
+                        <div class="spec-col">
+                            <span class="spec-label">Uncertainty</span>
+                            <strong class="spec-val" id="valUncertainty">± -- eV</strong>
+                        </div>
+
+                        <div class="spec-col">
+                            <span class="spec-label">Density</span>
+                            <strong class="spec-val" id="valDensityDisplay">-- g/cm³</strong>
+                        </div>
+                    </div>
+
+                    <!-- Vision Classification Tags -->
+                    <div class="vision-distribution-row" id="visionTop5Strip">
+                        <span class="vision-label">Vision Probabilities:</span>
+                        <div class="vision-tags-wrap" id="valTop5List">
+                            <!-- Populated dynamically from MobileNetV3 -->
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+
+        <!-- PROPERLY ALIGNED CENTER OF SCREEN BOTH BOXES CENTER -->
+        <div class="studio-center-redesign-wrap">
+            <button class="btn-yellow-bubble-redesign" id="btnTriggerRedesign">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+                    <polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon>
+                </svg>
+                <span>Redesign Material</span>
+            </button>
+            <span class="redesign-subtext">Autograd Potential Energy Minimization via PyTorch EGNN</span>
+        </div>
+    </main>
+</div>
+
+    <script src="/static/app.js"></script>
+</body>
+</html>

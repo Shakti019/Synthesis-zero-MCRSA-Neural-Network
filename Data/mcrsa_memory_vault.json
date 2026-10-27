@@ -1,0 +1,6822 @@
+[
+  {
+    "step": 5000,
+    "formula": "PGe0.5Li0.5Cl3",
+    "elem_A": "P",
+    "elem_B": "Ge",
+    "elem_X": "Cl",
+    "elements": [
+      "P",
+      "Ge",
+      "Li",
+      "Cl",
+      "Cl",
+      "Cl"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.9723,
+    "octahedral_mu": 0.5354,
+    "estimated_Ef_eV": 0.2563,
+    "prediction_uncertainty_eV": 1.2022,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.31445,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Ge Oxide",
+    "calcination_temp_C": 1107,
+    "reaction": "P Oxide + Ge Oxide --(1107\u00b0C)--> PGe0.5Li0.5Cl3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:38:08"
+  },
+  {
+    "step": 4999,
+    "formula": "PGe0.5Mg0.5S3",
+    "elem_A": "P",
+    "elem_B": "Ge",
+    "elem_X": "S",
+    "elements": [
+      "P",
+      "Ge",
+      "Mg",
+      "S",
+      "S",
+      "S"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8772,
+    "octahedral_mu": 0.288,
+    "estimated_Ef_eV": 0.5046,
+    "prediction_uncertainty_eV": 1.0664,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.01865,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Ge Oxide",
+    "calcination_temp_C": 1100,
+    "reaction": "P Oxide + Ge Oxide --(1100\u00b0C)--> PGe0.5Mg0.5S3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:38:03"
+  },
+  {
+    "step": 4998,
+    "formula": "PGe0.5Zr0.5N3",
+    "elem_A": "P",
+    "elem_B": "Ge",
+    "elem_X": "N",
+    "elements": [
+      "P",
+      "Ge",
+      "Zr",
+      "N",
+      "N",
+      "N"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.9096,
+    "octahedral_mu": 0.363,
+    "estimated_Ef_eV": 1.1802,
+    "prediction_uncertainty_eV": 0.6937,
+    "is_physically_stable": false,
+    "discovery_status": "model_ranked_requires_validation",
+    "acquisition_score": -0.78746,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Ge Oxide",
+    "calcination_temp_C": 1140,
+    "reaction": "P Oxide + Ge Oxide --(1140\u00b0C)--> PGe0.5Zr0.5N3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:37:57"
+  },
+  {
+    "step": 4997,
+    "formula": "PGe0.5Mg0.5O3",
+    "elem_A": "P",
+    "elem_B": "Ge",
+    "elem_X": "O",
+    "elements": [
+      "P",
+      "Ge",
+      "Mg",
+      "O",
+      "O",
+      "O"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.9159,
+    "octahedral_mu": 0.3786,
+    "estimated_Ef_eV": 0.6504,
+    "prediction_uncertainty_eV": 0.9611,
+    "is_physically_stable": false,
+    "discovery_status": "model_ranked_requires_validation",
+    "acquisition_score": -0.164,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Ge Oxide",
+    "calcination_temp_C": 1115,
+    "reaction": "P Oxide + Ge Oxide --(1115\u00b0C)--> PGe0.5Mg0.5O3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:37:53"
+  },
+  {
+    "step": 4992,
+    "formula": "P0.5Ag0.5BS3",
+    "elem_A": "P",
+    "elem_B": "B",
+    "elem_X": "S",
+    "elements": [
+      "P",
+      "Ag",
+      "B",
+      "S",
+      "S",
+      "S"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.9853,
+    "octahedral_mu": 0.1467,
+    "estimated_Ef_eV": 1.0561,
+    "prediction_uncertainty_eV": 0.7543,
+    "is_physically_stable": false,
+    "discovery_status": "model_ranked_requires_validation",
+    "acquisition_score": -0.6421,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "B Oxide",
+    "calcination_temp_C": 1149,
+    "reaction": "P Oxide + B Oxide --(1149\u00b0C)--> P0.5Ag0.5BS3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:37:27"
+  },
+  {
+    "step": 4990,
+    "formula": "PSi0.5Li0.5I3",
+    "elem_A": "P",
+    "elem_B": "Si",
+    "elem_X": "I",
+    "elements": [
+      "P",
+      "Si",
+      "Li",
+      "I",
+      "I",
+      "I"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.9932,
+    "octahedral_mu": 0.3008,
+    "estimated_Ef_eV": 0.2276,
+    "prediction_uncertainty_eV": 1.2471,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.3589,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "SiO2",
+    "calcination_temp_C": 1110,
+    "reaction": "P Oxide + SiO2 --(1110\u00b0C)--> PSi0.5Li0.5I3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:37:15"
+  },
+  {
+    "step": 4989,
+    "formula": "PSi0.5Li0.5Br3",
+    "elem_A": "P",
+    "elem_B": "Si",
+    "elem_X": "Br",
+    "elements": [
+      "P",
+      "Si",
+      "Li",
+      "Br",
+      "Br",
+      "Br"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 1.0285,
+    "octahedral_mu": 0.3509,
+    "estimated_Ef_eV": 0.1782,
+    "prediction_uncertainty_eV": 1.2769,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.4187,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "SiO2",
+    "calcination_temp_C": 1114,
+    "reaction": "P Oxide + SiO2 --(1114\u00b0C)--> PSi0.5Li0.5Br3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:37:12"
+  },
+  {
+    "step": 4986,
+    "formula": "PSi0.5Mg0.5S3",
+    "elem_A": "P",
+    "elem_B": "Si",
+    "elem_X": "S",
+    "elements": [
+      "P",
+      "Si",
+      "Mg",
+      "S",
+      "S",
+      "S"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.9281,
+    "octahedral_mu": 0.2174,
+    "estimated_Ef_eV": 0.6038,
+    "prediction_uncertainty_eV": 1.0075,
+    "is_physically_stable": false,
+    "discovery_status": "model_ranked_requires_validation",
+    "acquisition_score": -0.10118,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "SiO2",
+    "calcination_temp_C": 1115,
+    "reaction": "P Oxide + SiO2 --(1115\u00b0C)--> PSi0.5Mg0.5S3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:37:03"
+  },
+  {
+    "step": 4985,
+    "formula": "PSi0.5Sn0.5O3",
+    "elem_A": "P",
+    "elem_B": "Si",
+    "elem_X": "O",
+    "elements": [
+      "P",
+      "Si",
+      "Sn",
+      "O",
+      "O",
+      "O"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.9821,
+    "octahedral_mu": 0.2857,
+    "estimated_Ef_eV": 0.8022,
+    "prediction_uncertainty_eV": 0.897,
+    "is_physically_stable": false,
+    "discovery_status": "model_ranked_requires_validation",
+    "acquisition_score": -0.33819,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "SiO2",
+    "calcination_temp_C": 1136,
+    "reaction": "P Oxide + SiO2 --(1136\u00b0C)--> PSi0.5Sn0.5O3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:36:59"
+  },
+  {
+    "step": 4983,
+    "formula": "PPt0.5Li0.5Br3",
+    "elem_A": "P",
+    "elem_B": "Pt",
+    "elem_X": "Br",
+    "elements": [
+      "P",
+      "Pt",
+      "Li",
+      "Br",
+      "Br",
+      "Br"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8165,
+    "octahedral_mu": 0.7018,
+    "estimated_Ef_eV": 0.3067,
+    "prediction_uncertainty_eV": 1.1895,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.25962,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Pt Oxide",
+    "calcination_temp_C": 1078,
+    "reaction": "P Oxide + Pt Oxide --(1078\u00b0C)--> PPt0.5Li0.5Br3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:36:51"
+  },
+  {
+    "step": 4982,
+    "formula": "PPt0.5H0.5Br3",
+    "elem_A": "P",
+    "elem_B": "Pt",
+    "elem_X": "Br",
+    "elements": [
+      "P",
+      "Pt",
+      "H",
+      "Br",
+      "Br",
+      "Br"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8165,
+    "octahedral_mu": 0.7018,
+    "estimated_Ef_eV": 0.3824,
+    "prediction_uncertainty_eV": 1.1407,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.16678,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Pt Oxide",
+    "calcination_temp_C": 1082,
+    "reaction": "P Oxide + Pt Oxide --(1082\u00b0C)--> PPt0.5H0.5Br3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:36:46"
+  },
+  {
+    "step": 4981,
+    "formula": "PPt0.5Li0.5Cl3",
+    "elem_A": "P",
+    "elem_B": "Pt",
+    "elem_X": "Cl",
+    "elements": [
+      "P",
+      "Pt",
+      "Li",
+      "Cl",
+      "Cl",
+      "Cl"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8256,
+    "octahedral_mu": 0.8081,
+    "estimated_Ef_eV": 0.5816,
+    "prediction_uncertainty_eV": 0.9994,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": -0.08181,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Pt Oxide",
+    "calcination_temp_C": 1094,
+    "reaction": "P Oxide + Pt Oxide --(1094\u00b0C)--> PPt0.5Li0.5Cl3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:36:41"
+  },
+  {
+    "step": 4971,
+    "formula": "PV0.5Li0.5I3",
+    "elem_A": "P",
+    "elem_B": "V",
+    "elem_X": "I",
+    "elements": [
+      "P",
+      "V",
+      "Li",
+      "I",
+      "I",
+      "I"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.9189,
+    "octahedral_mu": 0.406,
+    "estimated_Ef_eV": 0.1859,
+    "prediction_uncertainty_eV": 1.2727,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.40951,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "V Oxide",
+    "calcination_temp_C": 1093,
+    "reaction": "P Oxide + V Oxide --(1093\u00b0C)--> PV0.5Li0.5I3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:35:57"
+  },
+  {
+    "step": 4970,
+    "formula": "PV0.5Li0.5Br3",
+    "elem_A": "P",
+    "elem_B": "V",
+    "elem_X": "Br",
+    "elements": [
+      "P",
+      "V",
+      "Li",
+      "Br",
+      "Br",
+      "Br"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.9428,
+    "octahedral_mu": 0.4737,
+    "estimated_Ef_eV": 0.0532,
+    "prediction_uncertainty_eV": 1.3536,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.57051,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "V Oxide",
+    "calcination_temp_C": 1091,
+    "reaction": "P Oxide + V Oxide --(1091\u00b0C)--> PV0.5Li0.5Br3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:35:55"
+  },
+  {
+    "step": 4969,
+    "formula": "P0.5Na0.5VBr3",
+    "elem_A": "P",
+    "elem_B": "V",
+    "elem_X": "Br",
+    "elements": [
+      "P",
+      "Na",
+      "V",
+      "Br",
+      "Br",
+      "Br"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.9428,
+    "octahedral_mu": 0.4737,
+    "estimated_Ef_eV": 0.1584,
+    "prediction_uncertainty_eV": 1.2936,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.44436,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "V Oxide",
+    "calcination_temp_C": 1096,
+    "reaction": "P Oxide + V Oxide --(1096\u00b0C)--> P0.5Na0.5VBr3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:35:53"
+  },
+  {
+    "step": 4968,
+    "formula": "PV0.5Li0.5Cl3",
+    "elem_A": "P",
+    "elem_B": "V",
+    "elem_X": "Cl",
+    "elements": [
+      "P",
+      "V",
+      "Li",
+      "Cl",
+      "Cl",
+      "Cl"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.9659,
+    "octahedral_mu": 0.5455,
+    "estimated_Ef_eV": 0.0853,
+    "prediction_uncertainty_eV": 1.3201,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.52673,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "V Oxide",
+    "calcination_temp_C": 1097,
+    "reaction": "P Oxide + V Oxide --(1097\u00b0C)--> PV0.5Li0.5Cl3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:35:50"
+  },
+  {
+    "step": 4967,
+    "formula": "PV0.5Mg0.5S3",
+    "elem_A": "P",
+    "elem_B": "V",
+    "elem_X": "S",
+    "elements": [
+      "P",
+      "V",
+      "Mg",
+      "S",
+      "S",
+      "S"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8735,
+    "octahedral_mu": 0.2935,
+    "estimated_Ef_eV": 0.4089,
+    "prediction_uncertainty_eV": 1.1336,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.13789,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "V Oxide",
+    "calcination_temp_C": 1095,
+    "reaction": "P Oxide + V Oxide --(1095\u00b0C)--> PV0.5Mg0.5S3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:35:47"
+  },
+  {
+    "step": 4966,
+    "formula": "P0.5Ag0.5VS3",
+    "elem_A": "P",
+    "elem_B": "V",
+    "elem_X": "S",
+    "elements": [
+      "P",
+      "Ag",
+      "V",
+      "S",
+      "S",
+      "S"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8735,
+    "octahedral_mu": 0.2935,
+    "estimated_Ef_eV": 0.6626,
+    "prediction_uncertainty_eV": 0.9916,
+    "is_physically_stable": false,
+    "discovery_status": "model_ranked_requires_validation",
+    "acquisition_score": -0.16548,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "V Oxide",
+    "calcination_temp_C": 1107,
+    "reaction": "P Oxide + V Oxide --(1107\u00b0C)--> P0.5Ag0.5VS3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:35:44"
+  },
+  {
+    "step": 4965,
+    "formula": "PV0.5Li0.5O3",
+    "elem_A": "P",
+    "elem_B": "V",
+    "elem_X": "O",
+    "elements": [
+      "P",
+      "V",
+      "Li",
+      "O",
+      "O",
+      "O"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.9112,
+    "octahedral_mu": 0.3857,
+    "estimated_Ef_eV": 0.4034,
+    "prediction_uncertainty_eV": 1.0851,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.12636,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "V Oxide",
+    "calcination_temp_C": 1102,
+    "reaction": "P Oxide + V Oxide --(1102\u00b0C)--> PV0.5Li0.5O3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:35:42"
+  },
+  {
+    "step": 4964,
+    "formula": "PW0.5Li0.5I3",
+    "elem_A": "P",
+    "elem_B": "W",
+    "elem_X": "I",
+    "elements": [
+      "P",
+      "W",
+      "Li",
+      "I",
+      "I",
+      "I"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8812,
+    "octahedral_mu": 0.4662,
+    "estimated_Ef_eV": 0.4124,
+    "prediction_uncertainty_eV": 1.1177,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.1288,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "W Oxide",
+    "calcination_temp_C": 1096,
+    "reaction": "P Oxide + W Oxide --(1096\u00b0C)--> PW0.5Li0.5I3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:35:40"
+  },
+  {
+    "step": 4963,
+    "formula": "PW0.5Li0.5Br3",
+    "elem_A": "P",
+    "elem_B": "W",
+    "elem_X": "Br",
+    "elements": [
+      "P",
+      "W",
+      "Li",
+      "Br",
+      "Br",
+      "Br"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.9,
+    "octahedral_mu": 0.5439,
+    "estimated_Ef_eV": 0.2658,
+    "prediction_uncertainty_eV": 1.216,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.30982,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "W Oxide",
+    "calcination_temp_C": 1093,
+    "reaction": "P Oxide + W Oxide --(1093\u00b0C)--> PW0.5Li0.5Br3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:35:36"
+  },
+  {
+    "step": 4962,
+    "formula": "P0.5Na0.5WBr3",
+    "elem_A": "P",
+    "elem_B": "W",
+    "elem_X": "Br",
+    "elements": [
+      "P",
+      "Na",
+      "W",
+      "Br",
+      "Br",
+      "Br"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.9,
+    "octahedral_mu": 0.5439,
+    "estimated_Ef_eV": 0.3867,
+    "prediction_uncertainty_eV": 1.1345,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.16033,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "W Oxide",
+    "calcination_temp_C": 1099,
+    "reaction": "P Oxide + W Oxide --(1099\u00b0C)--> P0.5Na0.5WBr3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:35:34"
+  },
+  {
+    "step": 4961,
+    "formula": "PW0.5Li0.5Cl3",
+    "elem_A": "P",
+    "elem_B": "W",
+    "elem_X": "Cl",
+    "elements": [
+      "P",
+      "W",
+      "Li",
+      "Cl",
+      "Cl",
+      "Cl"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.9179,
+    "octahedral_mu": 0.6263,
+    "estimated_Ef_eV": 0.3758,
+    "prediction_uncertainty_eV": 1.1372,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.17218,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "W Oxide",
+    "calcination_temp_C": 1102,
+    "reaction": "P Oxide + W Oxide --(1102\u00b0C)--> PW0.5Li0.5Cl3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:35:32"
+  },
+  {
+    "step": 4960,
+    "formula": "PW0.5Mg0.5S3",
+    "elem_A": "P",
+    "elem_B": "W",
+    "elem_X": "S",
+    "elements": [
+      "P",
+      "W",
+      "Mg",
+      "S",
+      "S",
+      "S"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8451,
+    "octahedral_mu": 0.337,
+    "estimated_Ef_eV": 0.4847,
+    "prediction_uncertainty_eV": 1.0805,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.04344,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "W Oxide",
+    "calcination_temp_C": 1093,
+    "reaction": "P Oxide + W Oxide --(1093\u00b0C)--> PW0.5Mg0.5S3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:35:29"
+  },
+  {
+    "step": 4959,
+    "formula": "PW0.5Sn0.5N3",
+    "elem_A": "P",
+    "elem_B": "W",
+    "elem_X": "N",
+    "elements": [
+      "P",
+      "W",
+      "Sn",
+      "N",
+      "N",
+      "N"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8703,
+    "octahedral_mu": 0.4247,
+    "estimated_Ef_eV": 0.8023,
+    "prediction_uncertainty_eV": 0.8942,
+    "is_physically_stable": false,
+    "discovery_status": "model_ranked_requires_validation",
+    "acquisition_score": -0.33931,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "W Oxide",
+    "calcination_temp_C": 1114,
+    "reaction": "P Oxide + W Oxide --(1114\u00b0C)--> PW0.5Sn0.5N3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:35:26"
+  },
+  {
+    "step": 4958,
+    "formula": "PW0.5Li0.5O3",
+    "elem_A": "P",
+    "elem_B": "W",
+    "elem_X": "O",
+    "elements": [
+      "P",
+      "W",
+      "Li",
+      "O",
+      "O",
+      "O"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8751,
+    "octahedral_mu": 0.4429,
+    "estimated_Ef_eV": 0.6553,
+    "prediction_uncertainty_eV": 0.9334,
+    "is_physically_stable": false,
+    "discovery_status": "model_ranked_requires_validation",
+    "acquisition_score": -0.17863,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "W Oxide",
+    "calcination_temp_C": 1107,
+    "reaction": "P Oxide + W Oxide --(1107\u00b0C)--> PW0.5Li0.5O3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:35:23"
+  },
+  {
+    "step": 4957,
+    "formula": "PMo0.5Li0.5I3",
+    "elem_A": "P",
+    "elem_B": "Mo",
+    "elem_X": "I",
+    "elements": [
+      "P",
+      "Mo",
+      "Li",
+      "I",
+      "I",
+      "I"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8678,
+    "octahedral_mu": 0.4887,
+    "estimated_Ef_eV": 0.2736,
+    "prediction_uncertainty_eV": 1.2151,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.30172,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Mo Oxide",
+    "calcination_temp_C": 1087,
+    "reaction": "P Oxide + Mo Oxide --(1087\u00b0C)--> PMo0.5Li0.5I3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:35:20"
+  },
+  {
+    "step": 4956,
+    "formula": "PMo0.5Li0.5Br3",
+    "elem_A": "P",
+    "elem_B": "Mo",
+    "elem_X": "Br",
+    "elements": [
+      "P",
+      "Mo",
+      "Li",
+      "Br",
+      "Br",
+      "Br"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8849,
+    "octahedral_mu": 0.5702,
+    "estimated_Ef_eV": 0.1428,
+    "prediction_uncertainty_eV": 1.3031,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.4633,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Mo Oxide",
+    "calcination_temp_C": 1084,
+    "reaction": "P Oxide + Mo Oxide --(1084\u00b0C)--> PMo0.5Li0.5Br3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:35:16"
+  },
+  {
+    "step": 4955,
+    "formula": "P0.5Na0.5MoBr3",
+    "elem_A": "P",
+    "elem_B": "Mo",
+    "elem_X": "Br",
+    "elements": [
+      "P",
+      "Na",
+      "Mo",
+      "Br",
+      "Br",
+      "Br"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8849,
+    "octahedral_mu": 0.5702,
+    "estimated_Ef_eV": 0.2597,
+    "prediction_uncertainty_eV": 1.2268,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.31969,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Mo Oxide",
+    "calcination_temp_C": 1089,
+    "reaction": "P Oxide + Mo Oxide --(1089\u00b0C)--> P0.5Na0.5MoBr3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:35:14"
+  },
+  {
+    "step": 4954,
+    "formula": "PMo0.5Li0.5Cl3",
+    "elem_A": "P",
+    "elem_B": "Mo",
+    "elem_X": "Cl",
+    "elements": [
+      "P",
+      "Mo",
+      "Li",
+      "Cl",
+      "Cl",
+      "Cl"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.9011,
+    "octahedral_mu": 0.6566,
+    "estimated_Ef_eV": 0.2453,
+    "prediction_uncertainty_eV": 1.2239,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.33304,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Mo Oxide",
+    "calcination_temp_C": 1092,
+    "reaction": "P Oxide + Mo Oxide --(1092\u00b0C)--> PMo0.5Li0.5Cl3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:35:11"
+  },
+  {
+    "step": 4953,
+    "formula": "PMo0.5Mg0.5S3",
+    "elem_A": "P",
+    "elem_B": "Mo",
+    "elem_X": "S",
+    "elements": [
+      "P",
+      "Mo",
+      "Mg",
+      "S",
+      "S",
+      "S"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8349,
+    "octahedral_mu": 0.3533,
+    "estimated_Ef_eV": 0.4442,
+    "prediction_uncertainty_eV": 1.1121,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.09509,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Mo Oxide",
+    "calcination_temp_C": 1089,
+    "reaction": "P Oxide + Mo Oxide --(1089\u00b0C)--> PMo0.5Mg0.5S3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:35:07"
+  },
+  {
+    "step": 4952,
+    "formula": "P0.5Ag0.5MoS3",
+    "elem_A": "P",
+    "elem_B": "Mo",
+    "elem_X": "S",
+    "elements": [
+      "P",
+      "Ag",
+      "Mo",
+      "S",
+      "S",
+      "S"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8349,
+    "octahedral_mu": 0.3533,
+    "estimated_Ef_eV": 0.709,
+    "prediction_uncertainty_eV": 0.9588,
+    "is_physically_stable": false,
+    "discovery_status": "model_ranked_requires_validation",
+    "acquisition_score": -0.22342,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Mo Oxide",
+    "calcination_temp_C": 1102,
+    "reaction": "P Oxide + Mo Oxide --(1102\u00b0C)--> P0.5Ag0.5MoS3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:35:05"
+  },
+  {
+    "step": 4951,
+    "formula": "PMo0.5Li0.5O3",
+    "elem_A": "P",
+    "elem_B": "Mo",
+    "elem_X": "O",
+    "elements": [
+      "P",
+      "Mo",
+      "Li",
+      "O",
+      "O",
+      "O"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8623,
+    "octahedral_mu": 0.4643,
+    "estimated_Ef_eV": 0.6048,
+    "prediction_uncertainty_eV": 0.961,
+    "is_physically_stable": false,
+    "discovery_status": "model_ranked_requires_validation",
+    "acquisition_score": -0.1185,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Mo Oxide",
+    "calcination_temp_C": 1102,
+    "reaction": "P Oxide + Mo Oxide --(1102\u00b0C)--> PMo0.5Li0.5O3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:35:03"
+  },
+  {
+    "step": 4950,
+    "formula": "PCo0.5Li0.5I3",
+    "elem_A": "P",
+    "elem_B": "Co",
+    "elem_X": "I",
+    "elements": [
+      "P",
+      "Co",
+      "Li",
+      "I",
+      "I",
+      "I"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8678,
+    "octahedral_mu": 0.4887,
+    "estimated_Ef_eV": 0.1926,
+    "prediction_uncertainty_eV": 1.2736,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.40314,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Co Oxide",
+    "calcination_temp_C": 1083,
+    "reaction": "P Oxide + Co Oxide --(1083\u00b0C)--> PCo0.5Li0.5I3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:35:01"
+  },
+  {
+    "step": 4949,
+    "formula": "PCo0.5Li0.5Br3",
+    "elem_A": "P",
+    "elem_B": "Co",
+    "elem_X": "Br",
+    "elements": [
+      "P",
+      "Co",
+      "Li",
+      "Br",
+      "Br",
+      "Br"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8849,
+    "octahedral_mu": 0.5702,
+    "estimated_Ef_eV": 0.0851,
+    "prediction_uncertainty_eV": 1.3426,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.53483,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Co Oxide",
+    "calcination_temp_C": 1081,
+    "reaction": "P Oxide + Co Oxide --(1081\u00b0C)--> PCo0.5Li0.5Br3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:34:59"
+  },
+  {
+    "step": 4948,
+    "formula": "P0.5Na0.5CoBr3",
+    "elem_A": "P",
+    "elem_B": "Co",
+    "elem_X": "Br",
+    "elements": [
+      "P",
+      "Na",
+      "Co",
+      "Br",
+      "Br",
+      "Br"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8849,
+    "octahedral_mu": 0.5702,
+    "estimated_Ef_eV": 0.234,
+    "prediction_uncertainty_eV": 1.2367,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.34887,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Co Oxide",
+    "calcination_temp_C": 1088,
+    "reaction": "P Oxide + Co Oxide --(1088\u00b0C)--> P0.5Na0.5CoBr3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:34:55"
+  },
+  {
+    "step": 4947,
+    "formula": "PCo0.5Li0.5Cl3",
+    "elem_A": "P",
+    "elem_B": "Co",
+    "elem_X": "Cl",
+    "elements": [
+      "P",
+      "Co",
+      "Li",
+      "Cl",
+      "Cl",
+      "Cl"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.9011,
+    "octahedral_mu": 0.6566,
+    "estimated_Ef_eV": 0.4062,
+    "prediction_uncertainty_eV": 1.1121,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.13306,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Co Oxide",
+    "calcination_temp_C": 1100,
+    "reaction": "P Oxide + Co Oxide --(1100\u00b0C)--> PCo0.5Li0.5Cl3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:34:53"
+  },
+  {
+    "step": 4946,
+    "formula": "PCo0.5Mg0.5S3",
+    "elem_A": "P",
+    "elem_B": "Co",
+    "elem_X": "S",
+    "elements": [
+      "P",
+      "Co",
+      "Mg",
+      "S",
+      "S",
+      "S"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8349,
+    "octahedral_mu": 0.3533,
+    "estimated_Ef_eV": 0.5107,
+    "prediction_uncertainty_eV": 1.0723,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.01461,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Co Oxide",
+    "calcination_temp_C": 1092,
+    "reaction": "P Oxide + Co Oxide --(1092\u00b0C)--> PCo0.5Mg0.5S3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:34:51"
+  },
+  {
+    "step": 4945,
+    "formula": "P0.5Ag0.5CoS3",
+    "elem_A": "P",
+    "elem_B": "Co",
+    "elem_X": "S",
+    "elements": [
+      "P",
+      "Ag",
+      "Co",
+      "S",
+      "S",
+      "S"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8349,
+    "octahedral_mu": 0.3533,
+    "estimated_Ef_eV": 0.6808,
+    "prediction_uncertainty_eV": 0.9828,
+    "is_physically_stable": false,
+    "discovery_status": "model_ranked_requires_validation",
+    "acquisition_score": -0.1868,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Co Oxide",
+    "calcination_temp_C": 1101,
+    "reaction": "P Oxide + Co Oxide --(1101\u00b0C)--> P0.5Ag0.5CoS3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:34:48"
+  },
+  {
+    "step": 4944,
+    "formula": "PCo0.5Mg0.5O3",
+    "elem_A": "P",
+    "elem_B": "Co",
+    "elem_X": "O",
+    "elements": [
+      "P",
+      "Co",
+      "Mg",
+      "O",
+      "O",
+      "O"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8623,
+    "octahedral_mu": 0.4643,
+    "estimated_Ef_eV": 0.9821,
+    "prediction_uncertainty_eV": 0.7716,
+    "is_physically_stable": false,
+    "discovery_status": "model_ranked_requires_validation",
+    "acquisition_score": -0.56205,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Co Oxide",
+    "calcination_temp_C": 1121,
+    "reaction": "P Oxide + Co Oxide --(1121\u00b0C)--> PCo0.5Mg0.5O3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:34:46"
+  },
+  {
+    "step": 4943,
+    "formula": "PMn0.5Li0.5I3",
+    "elem_A": "P",
+    "elem_B": "Mn",
+    "elem_X": "I",
+    "elements": [
+      "P",
+      "Mn",
+      "Li",
+      "I",
+      "I",
+      "I"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.87,
+    "octahedral_mu": 0.485,
+    "estimated_Ef_eV": 0.1921,
+    "prediction_uncertainty_eV": 1.2732,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.40353,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "MnO2",
+    "calcination_temp_C": 1083,
+    "reaction": "P Oxide + MnO2 --(1083\u00b0C)--> PMn0.5Li0.5I3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:34:43"
+  },
+  {
+    "step": 4942,
+    "formula": "PMn0.5Li0.5Br3",
+    "elem_A": "P",
+    "elem_B": "Mn",
+    "elem_X": "Br",
+    "elements": [
+      "P",
+      "Mn",
+      "Li",
+      "Br",
+      "Br",
+      "Br"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8873,
+    "octahedral_mu": 0.5658,
+    "estimated_Ef_eV": 0.0693,
+    "prediction_uncertainty_eV": 1.3518,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.55382,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "MnO2",
+    "calcination_temp_C": 1080,
+    "reaction": "P Oxide + MnO2 --(1080\u00b0C)--> PMn0.5Li0.5Br3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:34:41"
+  },
+  {
+    "step": 4941,
+    "formula": "P0.5Na0.5MnBr3",
+    "elem_A": "P",
+    "elem_B": "Mn",
+    "elem_X": "Br",
+    "elements": [
+      "P",
+      "Na",
+      "Mn",
+      "Br",
+      "Br",
+      "Br"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8873,
+    "octahedral_mu": 0.5658,
+    "estimated_Ef_eV": 0.1955,
+    "prediction_uncertainty_eV": 1.2704,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.39908,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "MnO2",
+    "calcination_temp_C": 1087,
+    "reaction": "P Oxide + MnO2 --(1087\u00b0C)--> P0.5Na0.5MnBr3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:34:39"
+  },
+  {
+    "step": 4940,
+    "formula": "PMn0.5Li0.5Cl3",
+    "elem_A": "P",
+    "elem_B": "Mn",
+    "elem_X": "Cl",
+    "elements": [
+      "P",
+      "Mn",
+      "Li",
+      "Cl",
+      "Cl",
+      "Cl"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.9039,
+    "octahedral_mu": 0.6515,
+    "estimated_Ef_eV": 0.1783,
+    "prediction_uncertainty_eV": 1.2642,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.41421,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "MnO2",
+    "calcination_temp_C": 1089,
+    "reaction": "P Oxide + MnO2 --(1089\u00b0C)--> PMn0.5Li0.5Cl3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:34:36"
+  },
+  {
+    "step": 4939,
+    "formula": "P0.5Ca0.5MnCl3",
+    "elem_A": "P",
+    "elem_B": "Mn",
+    "elem_X": "Cl",
+    "elements": [
+      "P",
+      "Ca",
+      "Mn",
+      "Cl",
+      "Cl",
+      "Cl"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.9039,
+    "octahedral_mu": 0.6515,
+    "estimated_Ef_eV": 0.4043,
+    "prediction_uncertainty_eV": 1.134,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.1426,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "MnO2",
+    "calcination_temp_C": 1100,
+    "reaction": "P Oxide + MnO2 --(1100\u00b0C)--> P0.5Ca0.5MnCl3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:34:34"
+  },
+  {
+    "step": 4938,
+    "formula": "P0.5Ag0.5MnS3",
+    "elem_A": "P",
+    "elem_B": "Mn",
+    "elem_X": "S",
+    "elements": [
+      "P",
+      "Ag",
+      "Mn",
+      "S",
+      "S",
+      "S"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8366,
+    "octahedral_mu": 0.3505,
+    "estimated_Ef_eV": 0.6509,
+    "prediction_uncertainty_eV": 1.0001,
+    "is_physically_stable": false,
+    "discovery_status": "model_ranked_requires_validation",
+    "acquisition_score": -0.1509,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "MnO2",
+    "calcination_temp_C": 1099,
+    "reaction": "P Oxide + MnO2 --(1099\u00b0C)--> P0.5Ag0.5MnS3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:34:31"
+  },
+  {
+    "step": 4937,
+    "formula": "PMn0.5Mg0.5O3",
+    "elem_A": "P",
+    "elem_B": "Mn",
+    "elem_X": "O",
+    "elements": [
+      "P",
+      "Mn",
+      "Mg",
+      "O",
+      "O",
+      "O"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8644,
+    "octahedral_mu": 0.4607,
+    "estimated_Ef_eV": 0.594,
+    "prediction_uncertainty_eV": 1.0033,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": -0.0928,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "MnO2",
+    "calcination_temp_C": 1102,
+    "reaction": "P Oxide + MnO2 --(1102\u00b0C)--> PMn0.5Mg0.5O3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:34:29"
+  },
+  {
+    "step": 4936,
+    "formula": "PCr0.5Li0.5I3",
+    "elem_A": "P",
+    "elem_B": "Cr",
+    "elem_X": "I",
+    "elements": [
+      "P",
+      "Cr",
+      "Li",
+      "I",
+      "I",
+      "I"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8834,
+    "octahedral_mu": 0.4624,
+    "estimated_Ef_eV": 0.184,
+    "prediction_uncertainty_eV": 1.2784,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.41343,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Cr Oxide",
+    "calcination_temp_C": 1085,
+    "reaction": "P Oxide + Cr Oxide --(1085\u00b0C)--> PCr0.5Li0.5I3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:34:26"
+  },
+  {
+    "step": 4935,
+    "formula": "PCr0.5Li0.5Br3",
+    "elem_A": "P",
+    "elem_B": "Cr",
+    "elem_X": "Br",
+    "elements": [
+      "P",
+      "Cr",
+      "Li",
+      "Br",
+      "Br",
+      "Br"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.9025,
+    "octahedral_mu": 0.5395,
+    "estimated_Ef_eV": 0.0659,
+    "prediction_uncertainty_eV": 1.3535,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.55785,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Cr Oxide",
+    "calcination_temp_C": 1083,
+    "reaction": "P Oxide + Cr Oxide --(1083\u00b0C)--> PCr0.5Li0.5Br3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:34:23"
+  },
+  {
+    "step": 4934,
+    "formula": "P0.5Na0.5CrBr3",
+    "elem_A": "P",
+    "elem_B": "Cr",
+    "elem_X": "Br",
+    "elements": [
+      "P",
+      "Na",
+      "Cr",
+      "Br",
+      "Br",
+      "Br"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.9025,
+    "octahedral_mu": 0.5395,
+    "estimated_Ef_eV": 0.1757,
+    "prediction_uncertainty_eV": 1.2817,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.42287,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Cr Oxide",
+    "calcination_temp_C": 1089,
+    "reaction": "P Oxide + Cr Oxide --(1089\u00b0C)--> P0.5Na0.5CrBr3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:34:21"
+  },
+  {
+    "step": 4933,
+    "formula": "PCr0.5Li0.5Cl3",
+    "elem_A": "P",
+    "elem_B": "Cr",
+    "elem_X": "Cl",
+    "elements": [
+      "P",
+      "Cr",
+      "Li",
+      "Cl",
+      "Cl",
+      "Cl"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.9208,
+    "octahedral_mu": 0.6212,
+    "estimated_Ef_eV": 0.2153,
+    "prediction_uncertainty_eV": 1.2368,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.36754,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Cr Oxide",
+    "calcination_temp_C": 1094,
+    "reaction": "P Oxide + Cr Oxide --(1094\u00b0C)--> PCr0.5Li0.5Cl3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:34:18"
+  },
+  {
+    "step": 4932,
+    "formula": "P0.5Ca0.5CrCl3",
+    "elem_A": "P",
+    "elem_B": "Cr",
+    "elem_X": "Cl",
+    "elements": [
+      "P",
+      "Ca",
+      "Cr",
+      "Cl",
+      "Cl",
+      "Cl"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.9208,
+    "octahedral_mu": 0.6212,
+    "estimated_Ef_eV": 0.3964,
+    "prediction_uncertainty_eV": 1.137,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.15152,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Cr Oxide",
+    "calcination_temp_C": 1103,
+    "reaction": "P Oxide + Cr Oxide --(1103\u00b0C)--> P0.5Ca0.5CrCl3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:34:16"
+  },
+  {
+    "step": 4931,
+    "formula": "P0.5Ag0.5CrS3",
+    "elem_A": "P",
+    "elem_B": "Cr",
+    "elem_X": "S",
+    "elements": [
+      "P",
+      "Ag",
+      "Cr",
+      "S",
+      "S",
+      "S"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8468,
+    "octahedral_mu": 0.3342,
+    "estimated_Ef_eV": 0.6229,
+    "prediction_uncertainty_eV": 1.0186,
+    "is_physically_stable": false,
+    "discovery_status": "model_ranked_requires_validation",
+    "acquisition_score": -0.11641,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Cr Oxide",
+    "calcination_temp_C": 1100,
+    "reaction": "P Oxide + Cr Oxide --(1100\u00b0C)--> P0.5Ag0.5CrS3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:34:14"
+  },
+  {
+    "step": 4930,
+    "formula": "PCr0.5Mg0.5O3",
+    "elem_A": "P",
+    "elem_B": "Cr",
+    "elem_X": "O",
+    "elements": [
+      "P",
+      "Cr",
+      "Mg",
+      "O",
+      "O",
+      "O"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8773,
+    "octahedral_mu": 0.4393,
+    "estimated_Ef_eV": 0.6772,
+    "prediction_uncertainty_eV": 0.946,
+    "is_physically_stable": false,
+    "discovery_status": "model_ranked_requires_validation",
+    "acquisition_score": -0.19608,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Cr Oxide",
+    "calcination_temp_C": 1109,
+    "reaction": "P Oxide + Cr Oxide --(1109\u00b0C)--> PCr0.5Mg0.5O3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:34:12"
+  },
+  {
+    "step": 4929,
+    "formula": "PMg0.5Li0.5I3",
+    "elem_A": "P",
+    "elem_B": "Mg",
+    "elem_X": "I",
+    "elements": [
+      "P",
+      "Mg",
+      "Li",
+      "I",
+      "I",
+      "I"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8382,
+    "octahedral_mu": 0.5414,
+    "estimated_Ef_eV": 0.0973,
+    "prediction_uncertainty_eV": 1.3314,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.51866,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Mg Oxide",
+    "calcination_temp_C": 1072,
+    "reaction": "P Oxide + Mg Oxide --(1072\u00b0C)--> PMg0.5Li0.5I3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:34:09"
+  },
+  {
+    "step": 4928,
+    "formula": "PMg0.5Li0.5Br3",
+    "elem_A": "P",
+    "elem_B": "Mg",
+    "elem_X": "Br",
+    "elements": [
+      "P",
+      "Mg",
+      "Li",
+      "Br",
+      "Br",
+      "Br"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8516,
+    "octahedral_mu": 0.6316,
+    "estimated_Ef_eV": 0.0029,
+    "prediction_uncertainty_eV": 1.384,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.6315,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Mg Oxide",
+    "calcination_temp_C": 1070,
+    "reaction": "P Oxide + Mg Oxide --(1070\u00b0C)--> PMg0.5Li0.5Br3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:34:06"
+  },
+  {
+    "step": 4927,
+    "formula": "P0.5Na0.5MgBr3",
+    "elem_A": "P",
+    "elem_B": "Mg",
+    "elem_X": "Br",
+    "elements": [
+      "P",
+      "Na",
+      "Mg",
+      "Br",
+      "Br",
+      "Br"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8516,
+    "octahedral_mu": 0.6316,
+    "estimated_Ef_eV": 0.0659,
+    "prediction_uncertainty_eV": 1.347,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.55559,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Mg Oxide",
+    "calcination_temp_C": 1073,
+    "reaction": "P Oxide + Mg Oxide --(1073\u00b0C)--> P0.5Na0.5MgBr3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:34:04"
+  },
+  {
+    "step": 4926,
+    "formula": "PMg0.5Li0.5Cl3",
+    "elem_A": "P",
+    "elem_B": "Mg",
+    "elem_X": "Cl",
+    "elements": [
+      "P",
+      "Mg",
+      "Li",
+      "Cl",
+      "Cl",
+      "Cl"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8642,
+    "octahedral_mu": 0.7273,
+    "estimated_Ef_eV": 0.2307,
+    "prediction_uncertainty_eV": 1.2105,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.34299,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Mg Oxide",
+    "calcination_temp_C": 1084,
+    "reaction": "P Oxide + Mg Oxide --(1084\u00b0C)--> PMg0.5Li0.5Cl3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:34:02"
+  },
+  {
+    "step": 4925,
+    "formula": "P0.5Ca0.5MgCl3",
+    "elem_A": "P",
+    "elem_B": "Mg",
+    "elem_X": "Cl",
+    "elements": [
+      "P",
+      "Ca",
+      "Mg",
+      "Cl",
+      "Cl",
+      "Cl"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8642,
+    "octahedral_mu": 0.7273,
+    "estimated_Ef_eV": 0.2709,
+    "prediction_uncertainty_eV": 1.2125,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.30352,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Mg Oxide",
+    "calcination_temp_C": 1086,
+    "reaction": "P Oxide + Mg Oxide --(1086\u00b0C)--> P0.5Ca0.5MgCl3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:34:00"
+  },
+  {
+    "step": 4924,
+    "formula": "P0.5Ag0.5MgS3",
+    "elem_A": "P",
+    "elem_B": "Mg",
+    "elem_X": "S",
+    "elements": [
+      "P",
+      "Ag",
+      "Mg",
+      "S",
+      "S",
+      "S"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8121,
+    "octahedral_mu": 0.3913,
+    "estimated_Ef_eV": 0.4831,
+    "prediction_uncertainty_eV": 1.0921,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.04911,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Mg Oxide",
+    "calcination_temp_C": 1086,
+    "reaction": "P Oxide + Mg Oxide --(1086\u00b0C)--> P0.5Ag0.5MgS3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:33:58"
+  },
+  {
+    "step": 4923,
+    "formula": "P0.5La0.5MgO3",
+    "elem_A": "P",
+    "elem_B": "Mg",
+    "elem_X": "O",
+    "elements": [
+      "P",
+      "La",
+      "Mg",
+      "O",
+      "O",
+      "O"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8339,
+    "octahedral_mu": 0.5143,
+    "estimated_Ef_eV": 0.7907,
+    "prediction_uncertainty_eV": 0.8694,
+    "is_physically_stable": false,
+    "discovery_status": "model_ranked_requires_validation",
+    "acquisition_score": -0.33639,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Mg Oxide",
+    "calcination_temp_C": 1106,
+    "reaction": "P Oxide + Mg Oxide --(1106\u00b0C)--> P0.5La0.5MgO3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:33:55"
+  },
+  {
+    "step": 4922,
+    "formula": "PZn0.5Li0.5I3",
+    "elem_A": "P",
+    "elem_B": "Zn",
+    "elem_X": "I",
+    "elements": [
+      "P",
+      "Zn",
+      "Li",
+      "I",
+      "I",
+      "I"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8301,
+    "octahedral_mu": 0.5564,
+    "estimated_Ef_eV": 0.1989,
+    "prediction_uncertainty_eV": 1.2706,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.39582,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Zn Oxide",
+    "calcination_temp_C": 1075,
+    "reaction": "P Oxide + Zn Oxide --(1075\u00b0C)--> PZn0.5Li0.5I3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:33:53"
+  },
+  {
+    "step": 4921,
+    "formula": "PZn0.5Li0.5Br3",
+    "elem_A": "P",
+    "elem_B": "Zn",
+    "elem_X": "Br",
+    "elements": [
+      "P",
+      "Zn",
+      "Li",
+      "Br",
+      "Br",
+      "Br"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8425,
+    "octahedral_mu": 0.6491,
+    "estimated_Ef_eV": 0.0122,
+    "prediction_uncertainty_eV": 1.3933,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.62546,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Zn Oxide",
+    "calcination_temp_C": 1069,
+    "reaction": "P Oxide + Zn Oxide --(1069\u00b0C)--> PZn0.5Li0.5Br3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:33:52"
+  },
+  {
+    "step": 4920,
+    "formula": "PZn0.5Sn0.5F3",
+    "elem_A": "P",
+    "elem_B": "Zn",
+    "elem_X": "F",
+    "elements": [
+      "P",
+      "Zn",
+      "Sn",
+      "F",
+      "F",
+      "F"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8301,
+    "octahedral_mu": 0.5564,
+    "estimated_Ef_eV": 0.5417,
+    "prediction_uncertainty_eV": 1.065,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": -0.01894,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Zn Oxide",
+    "calcination_temp_C": 1093,
+    "reaction": "P Oxide + Zn Oxide --(1093\u00b0C)--> PZn0.5Sn0.5F3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:33:50"
+  },
+  {
+    "step": 4919,
+    "formula": "PZn0.5Li0.5Cl3",
+    "elem_A": "P",
+    "elem_B": "Zn",
+    "elem_X": "Cl",
+    "elements": [
+      "P",
+      "Zn",
+      "Li",
+      "Cl",
+      "Cl",
+      "Cl"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8543,
+    "octahedral_mu": 0.7475,
+    "estimated_Ef_eV": 0.3118,
+    "prediction_uncertainty_eV": 1.1783,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.25061,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Zn Oxide",
+    "calcination_temp_C": 1086,
+    "reaction": "P Oxide + Zn Oxide --(1086\u00b0C)--> PZn0.5Li0.5Cl3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:33:48"
+  },
+  {
+    "step": 4917,
+    "formula": "PZn0.5Sn0.5O3",
+    "elem_A": "P",
+    "elem_B": "Zn",
+    "elem_X": "O",
+    "elements": [
+      "P",
+      "Zn",
+      "Sn",
+      "O",
+      "O",
+      "O"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8261,
+    "octahedral_mu": 0.5286,
+    "estimated_Ef_eV": 0.9221,
+    "prediction_uncertainty_eV": 0.8232,
+    "is_physically_stable": false,
+    "discovery_status": "model_ranked_requires_validation",
+    "acquisition_score": -0.48399,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Zn Oxide",
+    "calcination_temp_C": 1111,
+    "reaction": "P Oxide + Zn Oxide --(1111\u00b0C)--> PZn0.5Sn0.5O3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:33:44"
+  },
+  {
+    "step": 4916,
+    "formula": "PTi0.5Li0.5I3",
+    "elem_A": "P",
+    "elem_B": "Ti",
+    "elem_X": "I",
+    "elements": [
+      "P",
+      "Ti",
+      "Li",
+      "I",
+      "I",
+      "I"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.888,
+    "octahedral_mu": 0.4549,
+    "estimated_Ef_eV": 0.1513,
+    "prediction_uncertainty_eV": 1.2991,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.45336,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "TiO2",
+    "calcination_temp_C": 1085,
+    "reaction": "P Oxide + TiO2 --(1085\u00b0C)--> PTi0.5Li0.5I3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:33:42"
+  },
+  {
+    "step": 4915,
+    "formula": "PTi0.5Li0.5Br3",
+    "elem_A": "P",
+    "elem_B": "Ti",
+    "elem_X": "Br",
+    "elements": [
+      "P",
+      "Ti",
+      "Li",
+      "Br",
+      "Br",
+      "Br"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.9077,
+    "octahedral_mu": 0.5307,
+    "estimated_Ef_eV": 0.0024,
+    "prediction_uncertainty_eV": 1.3915,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.63463,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "TiO2",
+    "calcination_temp_C": 1081,
+    "reaction": "P Oxide + TiO2 --(1081\u00b0C)--> PTi0.5Li0.5Br3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:33:40"
+  },
+  {
+    "step": 4914,
+    "formula": "PTi0.5H0.5Br3",
+    "elem_A": "P",
+    "elem_B": "Ti",
+    "elem_X": "Br",
+    "elements": [
+      "P",
+      "Ti",
+      "H",
+      "Br",
+      "Br",
+      "Br"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.9077,
+    "octahedral_mu": 0.5307,
+    "estimated_Ef_eV": 0.0837,
+    "prediction_uncertainty_eV": 1.3381,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.5346,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "TiO2",
+    "calcination_temp_C": 1085,
+    "reaction": "P Oxide + TiO2 --(1085\u00b0C)--> PTi0.5H0.5Br3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:33:38"
+  },
+  {
+    "step": 4913,
+    "formula": "PTi0.5Li0.5Cl3",
+    "elem_A": "P",
+    "elem_B": "Ti",
+    "elem_X": "Cl",
+    "elements": [
+      "P",
+      "Ti",
+      "Li",
+      "Cl",
+      "Cl",
+      "Cl"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.9266,
+    "octahedral_mu": 0.6111,
+    "estimated_Ef_eV": 0.0704,
+    "prediction_uncertainty_eV": 1.3303,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.54514,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "TiO2",
+    "calcination_temp_C": 1088,
+    "reaction": "P Oxide + TiO2 --(1088\u00b0C)--> PTi0.5Li0.5Cl3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:33:36"
+  },
+  {
+    "step": 4912,
+    "formula": "PTi0.5Mg0.5Cl3",
+    "elem_A": "P",
+    "elem_B": "Ti",
+    "elem_X": "Cl",
+    "elements": [
+      "P",
+      "Ti",
+      "Mg",
+      "Cl",
+      "Cl",
+      "Cl"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.9266,
+    "octahedral_mu": 0.6111,
+    "estimated_Ef_eV": 0.2256,
+    "prediction_uncertainty_eV": 1.2611,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.36578,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "TiO2",
+    "calcination_temp_C": 1096,
+    "reaction": "P Oxide + TiO2 --(1096\u00b0C)--> PTi0.5Mg0.5Cl3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:33:34"
+  },
+  {
+    "step": 4911,
+    "formula": "PTi0.5Mg0.5S3",
+    "elem_A": "P",
+    "elem_B": "Ti",
+    "elem_X": "S",
+    "elements": [
+      "P",
+      "Ti",
+      "Mg",
+      "S",
+      "S",
+      "S"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8503,
+    "octahedral_mu": 0.3288,
+    "estimated_Ef_eV": 0.3679,
+    "prediction_uncertainty_eV": 1.1581,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.18745,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "TiO2",
+    "calcination_temp_C": 1088,
+    "reaction": "P Oxide + TiO2 --(1088\u00b0C)--> PTi0.5Mg0.5S3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:33:32"
+  },
+  {
+    "step": 4910,
+    "formula": "PTi0.5Sn0.5O3",
+    "elem_A": "P",
+    "elem_B": "Ti",
+    "elem_X": "O",
+    "elements": [
+      "P",
+      "Ti",
+      "Sn",
+      "O",
+      "O",
+      "O"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8817,
+    "octahedral_mu": 0.4321,
+    "estimated_Ef_eV": 0.4593,
+    "prediction_uncertainty_eV": 1.1158,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.08124,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "TiO2",
+    "calcination_temp_C": 1099,
+    "reaction": "P Oxide + TiO2 --(1099\u00b0C)--> PTi0.5Sn0.5O3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:33:30"
+  },
+  {
+    "step": 4909,
+    "formula": "PNi0.5Li0.5I3",
+    "elem_A": "P",
+    "elem_B": "Ni",
+    "elem_X": "I",
+    "elements": [
+      "P",
+      "Ni",
+      "Li",
+      "I",
+      "I",
+      "I"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8506,
+    "octahedral_mu": 0.5188,
+    "estimated_Ef_eV": 0.1629,
+    "prediction_uncertainty_eV": 1.2958,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.44067,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Ni Oxide",
+    "calcination_temp_C": 1078,
+    "reaction": "P Oxide + Ni Oxide --(1078\u00b0C)--> PNi0.5Li0.5I3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:33:28"
+  },
+  {
+    "step": 4908,
+    "formula": "PNi0.5Li0.5Br3",
+    "elem_A": "P",
+    "elem_B": "Ni",
+    "elem_X": "Br",
+    "elements": [
+      "P",
+      "Ni",
+      "Li",
+      "Br",
+      "Br",
+      "Br"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8655,
+    "octahedral_mu": 0.6053,
+    "estimated_Ef_eV": 0.0448,
+    "prediction_uncertainty_eV": 1.3719,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.58539,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Ni Oxide",
+    "calcination_temp_C": 1075,
+    "reaction": "P Oxide + Ni Oxide --(1075\u00b0C)--> PNi0.5Li0.5Br3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:33:25"
+  },
+  {
+    "step": 4907,
+    "formula": "PNi0.5H0.5Br3",
+    "elem_A": "P",
+    "elem_B": "Ni",
+    "elem_X": "Br",
+    "elements": [
+      "P",
+      "Ni",
+      "H",
+      "Br",
+      "Br",
+      "Br"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8655,
+    "octahedral_mu": 0.6053,
+    "estimated_Ef_eV": 0.1104,
+    "prediction_uncertainty_eV": 1.3312,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.50555,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Ni Oxide",
+    "calcination_temp_C": 1078,
+    "reaction": "P Oxide + Ni Oxide --(1078\u00b0C)--> PNi0.5H0.5Br3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:33:23"
+  },
+  {
+    "step": 4906,
+    "formula": "PNi0.5Li0.5Cl3",
+    "elem_A": "P",
+    "elem_B": "Ni",
+    "elem_X": "Cl",
+    "elements": [
+      "P",
+      "Ni",
+      "Li",
+      "Cl",
+      "Cl",
+      "Cl"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8797,
+    "octahedral_mu": 0.697,
+    "estimated_Ef_eV": 0.4064,
+    "prediction_uncertainty_eV": 1.1134,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.13327,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Ni Oxide",
+    "calcination_temp_C": 1096,
+    "reaction": "P Oxide + Ni Oxide --(1096\u00b0C)--> PNi0.5Li0.5Cl3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:33:21"
+  },
+  {
+    "step": 4905,
+    "formula": "PNi0.5Mg0.5Cl3",
+    "elem_A": "P",
+    "elem_B": "Ni",
+    "elem_X": "Cl",
+    "elements": [
+      "P",
+      "Ni",
+      "Mg",
+      "Cl",
+      "Cl",
+      "Cl"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8797,
+    "octahedral_mu": 0.697,
+    "estimated_Ef_eV": 0.4254,
+    "prediction_uncertainty_eV": 1.1368,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.1225,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Ni Oxide",
+    "calcination_temp_C": 1097,
+    "reaction": "P Oxide + Ni Oxide --(1097\u00b0C)--> PNi0.5Mg0.5Cl3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:33:19"
+  },
+  {
+    "step": 4904,
+    "formula": "PNi0.5Mg0.5S3",
+    "elem_A": "P",
+    "elem_B": "Ni",
+    "elem_X": "S",
+    "elements": [
+      "P",
+      "Ni",
+      "Mg",
+      "S",
+      "S",
+      "S"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8217,
+    "octahedral_mu": 0.375,
+    "estimated_Ef_eV": 0.5045,
+    "prediction_uncertainty_eV": 1.0782,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.02292,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Ni Oxide",
+    "calcination_temp_C": 1089,
+    "reaction": "P Oxide + Ni Oxide --(1089\u00b0C)--> PNi0.5Mg0.5S3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:33:17"
+  },
+  {
+    "step": 4903,
+    "formula": "PNi0.5Sn0.5O3",
+    "elem_A": "P",
+    "elem_B": "Ni",
+    "elem_X": "O",
+    "elements": [
+      "P",
+      "Ni",
+      "Sn",
+      "O",
+      "O",
+      "O"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8458,
+    "octahedral_mu": 0.4929,
+    "estimated_Ef_eV": 1.0542,
+    "prediction_uncertainty_eV": 0.7497,
+    "is_physically_stable": false,
+    "discovery_status": "model_ranked_requires_validation",
+    "acquisition_score": -0.64181,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Ni Oxide",
+    "calcination_temp_C": 1121,
+    "reaction": "P Oxide + Ni Oxide --(1121\u00b0C)--> PNi0.5Sn0.5O3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:33:14"
+  },
+  {
+    "step": 4902,
+    "formula": "PCu0.5Li0.5I3",
+    "elem_A": "P",
+    "elem_B": "Cu",
+    "elem_X": "I",
+    "elements": [
+      "P",
+      "Cu",
+      "Li",
+      "I",
+      "I",
+      "I"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8341,
+    "octahedral_mu": 0.5489,
+    "estimated_Ef_eV": 0.1649,
+    "prediction_uncertainty_eV": 1.2948,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.4383,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Cu Oxide",
+    "calcination_temp_C": 1075,
+    "reaction": "P Oxide + Cu Oxide --(1075\u00b0C)--> PCu0.5Li0.5I3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:33:11"
+  },
+  {
+    "step": 4901,
+    "formula": "PCu0.5Li0.5Br3",
+    "elem_A": "P",
+    "elem_B": "Cu",
+    "elem_X": "Br",
+    "elements": [
+      "P",
+      "Cu",
+      "Li",
+      "Br",
+      "Br",
+      "Br"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.847,
+    "octahedral_mu": 0.6404,
+    "estimated_Ef_eV": 0.0188,
+    "prediction_uncertainty_eV": 1.3887,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.61722,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Cu Oxide",
+    "calcination_temp_C": 1070,
+    "reaction": "P Oxide + Cu Oxide --(1070\u00b0C)--> PCu0.5Li0.5Br3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:33:09"
+  },
+  {
+    "step": 4900,
+    "formula": "PCu0.5H0.5Br3",
+    "elem_A": "P",
+    "elem_B": "Cu",
+    "elem_X": "Br",
+    "elements": [
+      "P",
+      "Cu",
+      "H",
+      "Br",
+      "Br",
+      "Br"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.847,
+    "octahedral_mu": 0.6404,
+    "estimated_Ef_eV": 0.0998,
+    "prediction_uncertainty_eV": 1.3391,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.51894,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Cu Oxide",
+    "calcination_temp_C": 1074,
+    "reaction": "P Oxide + Cu Oxide --(1074\u00b0C)--> PCu0.5H0.5Br3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:33:07"
+  },
+  {
+    "step": 4899,
+    "formula": "PCu0.5Li0.5Cl3",
+    "elem_A": "P",
+    "elem_B": "Cu",
+    "elem_X": "Cl",
+    "elements": [
+      "P",
+      "Cu",
+      "Li",
+      "Cl",
+      "Cl",
+      "Cl"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8592,
+    "octahedral_mu": 0.7374,
+    "estimated_Ef_eV": 0.3904,
+    "prediction_uncertainty_eV": 1.125,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.15338,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Cu Oxide",
+    "calcination_temp_C": 1091,
+    "reaction": "P Oxide + Cu Oxide --(1091\u00b0C)--> PCu0.5Li0.5Cl3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:33:05"
+  },
+  {
+    "step": 4898,
+    "formula": "P0.5Ca0.5CuCl3",
+    "elem_A": "P",
+    "elem_B": "Cu",
+    "elem_X": "Cl",
+    "elements": [
+      "P",
+      "Ca",
+      "Cu",
+      "Cl",
+      "Cl",
+      "Cl"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8592,
+    "octahedral_mu": 0.7374,
+    "estimated_Ef_eV": 0.4953,
+    "prediction_uncertainty_eV": 1.0653,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.02758,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Cu Oxide",
+    "calcination_temp_C": 1096,
+    "reaction": "P Oxide + Cu Oxide --(1096\u00b0C)--> P0.5Ca0.5CuCl3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:33:03"
+  },
+  {
+    "step": 4896,
+    "formula": "PCu0.5Sn0.5O3",
+    "elem_A": "P",
+    "elem_B": "Cu",
+    "elem_X": "O",
+    "elements": [
+      "P",
+      "Cu",
+      "Sn",
+      "O",
+      "O",
+      "O"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8299,
+    "octahedral_mu": 0.5214,
+    "estimated_Ef_eV": 1.0425,
+    "prediction_uncertainty_eV": 0.7559,
+    "is_physically_stable": false,
+    "discovery_status": "model_ranked_requires_validation",
+    "acquisition_score": -0.62797,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Cu Oxide",
+    "calcination_temp_C": 1118,
+    "reaction": "P Oxide + Cu Oxide --(1118\u00b0C)--> PCu0.5Sn0.5O3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:32:58"
+  },
+  {
+    "step": 4895,
+    "formula": "PFe0.5Li0.5I3",
+    "elem_A": "P",
+    "elem_B": "Fe",
+    "elem_X": "I",
+    "elements": [
+      "P",
+      "Fe",
+      "Li",
+      "I",
+      "I",
+      "I"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.87,
+    "octahedral_mu": 0.485,
+    "estimated_Ef_eV": 0.1666,
+    "prediction_uncertainty_eV": 1.2926,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.43578,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Fe2O3",
+    "calcination_temp_C": 1082,
+    "reaction": "P Oxide + Fe2O3 --(1082\u00b0C)--> PFe0.5Li0.5I3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:32:56"
+  },
+  {
+    "step": 4894,
+    "formula": "PFe0.5Li0.5Br3",
+    "elem_A": "P",
+    "elem_B": "Fe",
+    "elem_X": "Br",
+    "elements": [
+      "P",
+      "Fe",
+      "Li",
+      "Br",
+      "Br",
+      "Br"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8873,
+    "octahedral_mu": 0.5658,
+    "estimated_Ef_eV": 0.0353,
+    "prediction_uncertainty_eV": 1.3763,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.59642,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Fe2O3",
+    "calcination_temp_C": 1079,
+    "reaction": "P Oxide + Fe2O3 --(1079\u00b0C)--> PFe0.5Li0.5Br3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:32:54"
+  },
+  {
+    "step": 4893,
+    "formula": "P0.5Na0.5FeBr3",
+    "elem_A": "P",
+    "elem_B": "Fe",
+    "elem_X": "Br",
+    "elements": [
+      "P",
+      "Na",
+      "Fe",
+      "Br",
+      "Br",
+      "Br"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8873,
+    "octahedral_mu": 0.5658,
+    "estimated_Ef_eV": 0.1408,
+    "prediction_uncertainty_eV": 1.3061,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.46635,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Fe2O3",
+    "calcination_temp_C": 1084,
+    "reaction": "P Oxide + Fe2O3 --(1084\u00b0C)--> P0.5Na0.5FeBr3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:32:51"
+  },
+  {
+    "step": 4892,
+    "formula": "PFe0.5Li0.5Cl3",
+    "elem_A": "P",
+    "elem_B": "Fe",
+    "elem_X": "Cl",
+    "elements": [
+      "P",
+      "Fe",
+      "Li",
+      "Cl",
+      "Cl",
+      "Cl"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.9039,
+    "octahedral_mu": 0.6515,
+    "estimated_Ef_eV": 0.2597,
+    "prediction_uncertainty_eV": 1.2111,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.3142,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Fe2O3",
+    "calcination_temp_C": 1093,
+    "reaction": "P Oxide + Fe2O3 --(1093\u00b0C)--> PFe0.5Li0.5Cl3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:32:49"
+  },
+  {
+    "step": 4891,
+    "formula": "P0.5Ca0.5FeCl3",
+    "elem_A": "P",
+    "elem_B": "Fe",
+    "elem_X": "Cl",
+    "elements": [
+      "P",
+      "Ca",
+      "Fe",
+      "Cl",
+      "Cl",
+      "Cl"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.9039,
+    "octahedral_mu": 0.6515,
+    "estimated_Ef_eV": 0.4354,
+    "prediction_uncertainty_eV": 1.1092,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.10284,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Fe2O3",
+    "calcination_temp_C": 1102,
+    "reaction": "P Oxide + Fe2O3 --(1102\u00b0C)--> P0.5Ca0.5FeCl3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:32:46"
+  },
+  {
+    "step": 4890,
+    "formula": "P0.5Ag0.5FeS3",
+    "elem_A": "P",
+    "elem_B": "Fe",
+    "elem_X": "S",
+    "elements": [
+      "P",
+      "Ag",
+      "Fe",
+      "S",
+      "S",
+      "S"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8366,
+    "octahedral_mu": 0.3505,
+    "estimated_Ef_eV": 0.6449,
+    "prediction_uncertainty_eV": 1.0047,
+    "is_physically_stable": false,
+    "discovery_status": "model_ranked_requires_validation",
+    "acquisition_score": -0.14326,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Fe2O3",
+    "calcination_temp_C": 1099,
+    "reaction": "P Oxide + Fe2O3 --(1099\u00b0C)--> P0.5Ag0.5FeS3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:32:44"
+  },
+  {
+    "step": 4889,
+    "formula": "PFe0.5Sn0.5O3",
+    "elem_A": "P",
+    "elem_B": "Fe",
+    "elem_X": "O",
+    "elements": [
+      "P",
+      "Fe",
+      "Sn",
+      "O",
+      "O",
+      "O"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8644,
+    "octahedral_mu": 0.4607,
+    "estimated_Ef_eV": 0.7873,
+    "prediction_uncertainty_eV": 0.9026,
+    "is_physically_stable": false,
+    "discovery_status": "model_ranked_requires_validation",
+    "acquisition_score": -0.32138,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Fe2O3",
+    "calcination_temp_C": 1112,
+    "reaction": "P Oxide + Fe2O3 --(1112\u00b0C)--> PFe0.5Sn0.5O3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:32:42"
+  },
+  {
+    "step": 4888,
+    "formula": "PAl0.5Li0.5I3",
+    "elem_A": "P",
+    "elem_B": "Al",
+    "elem_X": "I",
+    "elements": [
+      "P",
+      "Al",
+      "Li",
+      "I",
+      "I",
+      "I"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.9213,
+    "octahedral_mu": 0.4023,
+    "estimated_Ef_eV": 0.1898,
+    "prediction_uncertainty_eV": 1.2774,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.40727,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Al2O3",
+    "calcination_temp_C": 1093,
+    "reaction": "P Oxide + Al2O3 --(1093\u00b0C)--> PAl0.5Li0.5I3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:32:40"
+  },
+  {
+    "step": 4887,
+    "formula": "PAl0.5Li0.5Br3",
+    "elem_A": "P",
+    "elem_B": "Al",
+    "elem_X": "Br",
+    "elements": [
+      "P",
+      "Al",
+      "Li",
+      "Br",
+      "Br",
+      "Br"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.9456,
+    "octahedral_mu": 0.4693,
+    "estimated_Ef_eV": 0.1424,
+    "prediction_uncertainty_eV": 1.3055,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.46454,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Al2O3",
+    "calcination_temp_C": 1096,
+    "reaction": "P Oxide + Al2O3 --(1096\u00b0C)--> PAl0.5Li0.5Br3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:32:38"
+  },
+  {
+    "step": 4886,
+    "formula": "P0.5Na0.5AlBr3",
+    "elem_A": "P",
+    "elem_B": "Al",
+    "elem_X": "Br",
+    "elements": [
+      "P",
+      "Na",
+      "Al",
+      "Br",
+      "Br",
+      "Br"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.9456,
+    "octahedral_mu": 0.4693,
+    "estimated_Ef_eV": 0.3097,
+    "prediction_uncertainty_eV": 1.1853,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.25516,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Al2O3",
+    "calcination_temp_C": 1104,
+    "reaction": "P Oxide + Al2O3 --(1104\u00b0C)--> P0.5Na0.5AlBr3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:32:34"
+  },
+  {
+    "step": 4885,
+    "formula": "PAl0.5Li0.5Cl3",
+    "elem_A": "P",
+    "elem_B": "Al",
+    "elem_X": "Cl",
+    "elements": [
+      "P",
+      "Al",
+      "Li",
+      "Cl",
+      "Cl",
+      "Cl"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.9691,
+    "octahedral_mu": 0.5404,
+    "estimated_Ef_eV": 0.458,
+    "prediction_uncertainty_eV": 1.0786,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.06954,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Al2O3",
+    "calcination_temp_C": 1116,
+    "reaction": "P Oxide + Al2O3 --(1116\u00b0C)--> PAl0.5Li0.5Cl3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:32:32"
+  },
+  {
+    "step": 4884,
+    "formula": "PAl0.5Mg0.5S3",
+    "elem_A": "P",
+    "elem_B": "Al",
+    "elem_X": "S",
+    "elements": [
+      "P",
+      "Al",
+      "Mg",
+      "S",
+      "S",
+      "S"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8753,
+    "octahedral_mu": 0.2908,
+    "estimated_Ef_eV": 0.6449,
+    "prediction_uncertainty_eV": 0.9823,
+    "is_physically_stable": false,
+    "discovery_status": "model_ranked_requires_validation",
+    "acquisition_score": -0.1511,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Al2O3",
+    "calcination_temp_C": 1107,
+    "reaction": "P Oxide + Al2O3 --(1107\u00b0C)--> PAl0.5Mg0.5S3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:32:30"
+  },
+  {
+    "step": 4883,
+    "formula": "P0.5Ag0.5AlS3",
+    "elem_A": "P",
+    "elem_B": "Al",
+    "elem_X": "S",
+    "elements": [
+      "P",
+      "Ag",
+      "Al",
+      "S",
+      "S",
+      "S"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8753,
+    "octahedral_mu": 0.2908,
+    "estimated_Ef_eV": 0.9446,
+    "prediction_uncertainty_eV": 0.8175,
+    "is_physically_stable": false,
+    "discovery_status": "model_ranked_requires_validation",
+    "acquisition_score": -0.50847,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Al2O3",
+    "calcination_temp_C": 1122,
+    "reaction": "P Oxide + Al2O3 --(1122\u00b0C)--> P0.5Ag0.5AlS3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:32:28"
+  },
+  {
+    "step": 4882,
+    "formula": "PAl0.5Sn0.5O3",
+    "elem_A": "P",
+    "elem_B": "Al",
+    "elem_X": "O",
+    "elements": [
+      "P",
+      "Al",
+      "Sn",
+      "O",
+      "O",
+      "O"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.9136,
+    "octahedral_mu": 0.3821,
+    "estimated_Ef_eV": 0.8499,
+    "prediction_uncertainty_eV": 0.8685,
+    "is_physically_stable": false,
+    "discovery_status": "model_ranked_requires_validation",
+    "acquisition_score": -0.39592,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "Al2O3",
+    "calcination_temp_C": 1125,
+    "reaction": "P Oxide + Al2O3 --(1125\u00b0C)--> PAl0.5Sn0.5O3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:32:26"
+  },
+  {
+    "step": 4881,
+    "formula": "PH0.5Li0.5I3",
+    "elem_A": "P",
+    "elem_B": "H",
+    "elem_X": "I",
+    "elements": [
+      "P",
+      "H",
+      "Li",
+      "I",
+      "I",
+      "I"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 1.0107,
+    "octahedral_mu": 0.2782,
+    "estimated_Ef_eV": 0.0185,
+    "prediction_uncertainty_eV": 1.3683,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.61042,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "H Oxide",
+    "calcination_temp_C": 1103,
+    "reaction": "P Oxide + H Oxide --(1103\u00b0C)--> PH0.5Li0.5I3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:32:23"
+  },
+  {
+    "step": 4880,
+    "formula": "P0.5Ca0.5HBr3",
+    "elem_A": "P",
+    "elem_B": "H",
+    "elem_X": "Br",
+    "elements": [
+      "P",
+      "Ca",
+      "H",
+      "Br",
+      "Br",
+      "Br"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 1.049,
+    "octahedral_mu": 0.3246,
+    "estimated_Ef_eV": 0.0175,
+    "prediction_uncertainty_eV": 1.3776,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.61464,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "H Oxide",
+    "calcination_temp_C": 1110,
+    "reaction": "P Oxide + H Oxide --(1110\u00b0C)--> P0.5Ca0.5HBr3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:32:21"
+  },
+  {
+    "step": 4879,
+    "formula": "PH0.5Sn0.5F3",
+    "elem_A": "P",
+    "elem_B": "H",
+    "elem_X": "F",
+    "elements": [
+      "P",
+      "H",
+      "Sn",
+      "F",
+      "F",
+      "F"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 1.0107,
+    "octahedral_mu": 0.2782,
+    "estimated_Ef_eV": 0.6033,
+    "prediction_uncertainty_eV": 0.9818,
+    "is_physically_stable": false,
+    "discovery_status": "model_ranked_requires_validation",
+    "acquisition_score": -0.10966,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "H Oxide",
+    "calcination_temp_C": 1132,
+    "reaction": "P Oxide + H Oxide --(1132\u00b0C)--> PH0.5Sn0.5F3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:32:17"
+  },
+  {
+    "step": 4877,
+    "formula": "P0.5Ag0.5HS3",
+    "elem_A": "P",
+    "elem_B": "H",
+    "elem_X": "S",
+    "elements": [
+      "P",
+      "Ag",
+      "H",
+      "S",
+      "S",
+      "S"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.9407,
+    "octahedral_mu": 0.2011,
+    "estimated_Ef_eV": 0.6448,
+    "prediction_uncertainty_eV": 0.9717,
+    "is_physically_stable": false,
+    "discovery_status": "model_ranked_requires_validation",
+    "acquisition_score": -0.1547,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "H Oxide",
+    "calcination_temp_C": 1120,
+    "reaction": "P Oxide + H Oxide --(1120\u00b0C)--> P0.5Ag0.5HS3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:32:11"
+  },
+  {
+    "step": 4876,
+    "formula": "PH0.5Sn0.5O3",
+    "elem_A": "P",
+    "elem_B": "H",
+    "elem_X": "O",
+    "elements": [
+      "P",
+      "H",
+      "Sn",
+      "O",
+      "O",
+      "O"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.9987,
+    "octahedral_mu": 0.2643,
+    "estimated_Ef_eV": 1.1815,
+    "prediction_uncertainty_eV": 0.684,
+    "is_physically_stable": false,
+    "discovery_status": "model_ranked_requires_validation",
+    "acquisition_score": -0.79206,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "H Oxide",
+    "calcination_temp_C": 1158,
+    "reaction": "P Oxide + H Oxide --(1158\u00b0C)--> PH0.5Sn0.5O3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:32:09"
+  },
+  {
+    "step": 4875,
+    "formula": "PC0.5Li0.5I3",
+    "elem_A": "P",
+    "elem_B": "C",
+    "elem_X": "I",
+    "elements": [
+      "P",
+      "C",
+      "Li",
+      "I",
+      "I",
+      "I"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8182,
+    "octahedral_mu": 0.5789,
+    "estimated_Ef_eV": 0.2537,
+    "prediction_uncertainty_eV": 1.2406,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.33048,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "C Oxide",
+    "calcination_temp_C": 1076,
+    "reaction": "P Oxide + C Oxide --(1076\u00b0C)--> PC0.5Li0.5I3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:32:05"
+  },
+  {
+    "step": 4874,
+    "formula": "PC0.5Li0.5Br3",
+    "elem_A": "P",
+    "elem_B": "C",
+    "elem_X": "Br",
+    "elements": [
+      "P",
+      "C",
+      "Li",
+      "Br",
+      "Br",
+      "Br"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8293,
+    "octahedral_mu": 0.6754,
+    "estimated_Ef_eV": 0.2335,
+    "prediction_uncertainty_eV": 1.2526,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.35487,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "C Oxide",
+    "calcination_temp_C": 1077,
+    "reaction": "P Oxide + C Oxide --(1077\u00b0C)--> PC0.5Li0.5Br3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:32:03"
+  },
+  {
+    "step": 4873,
+    "formula": "PC0.5H0.5Br3",
+    "elem_A": "P",
+    "elem_B": "C",
+    "elem_X": "Br",
+    "elements": [
+      "P",
+      "C",
+      "H",
+      "Br",
+      "Br",
+      "Br"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8293,
+    "octahedral_mu": 0.6754,
+    "estimated_Ef_eV": 0.4053,
+    "prediction_uncertainty_eV": 1.1443,
+    "is_physically_stable": true,
+    "discovery_status": "physically_stable_requires_validation",
+    "acquisition_score": 0.14519,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "C Oxide",
+    "calcination_temp_C": 1086,
+    "reaction": "P Oxide + C Oxide --(1086\u00b0C)--> PC0.5H0.5Br3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:32:01"
+  },
+  {
+    "step": 4872,
+    "formula": "PC0.5Li0.5Cl3",
+    "elem_A": "P",
+    "elem_B": "C",
+    "elem_X": "Cl",
+    "elements": [
+      "P",
+      "C",
+      "Li",
+      "Cl",
+      "Cl",
+      "Cl"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8397,
+    "octahedral_mu": 0.7778,
+    "estimated_Ef_eV": 0.7329,
+    "prediction_uncertainty_eV": 0.906,
+    "is_physically_stable": false,
+    "discovery_status": "model_ranked_requires_validation",
+    "acquisition_score": -0.26576,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "C Oxide",
+    "calcination_temp_C": 1104,
+    "reaction": "P Oxide + C Oxide --(1104\u00b0C)--> PC0.5Li0.5Cl3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:31:59"
+  },
+  {
+    "step": 4869,
+    "formula": "PC0.5Sn0.5O3",
+    "elem_A": "P",
+    "elem_B": "C",
+    "elem_X": "O",
+    "elements": [
+      "P",
+      "C",
+      "Sn",
+      "O",
+      "O",
+      "O"
+    ],
+    "coordinates_3d": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.95,
+        1.95,
+        1.95
+      ],
+      [
+        1.95,
+        1.95,
+        0.0
+      ],
+      [
+        1.95,
+        0.0,
+        1.95
+      ],
+      [
+        0.0,
+        1.95,
+        1.95
+      ],
+      [
+        0.975,
+        0.975,
+        0.975
+      ]
+    ],
+    "tolerance_t": 0.8146,
+    "octahedral_mu": 0.55,
+    "estimated_Ef_eV": 1.2908,
+    "prediction_uncertainty_eV": 0.6591,
+    "is_physically_stable": false,
+    "discovery_status": "model_ranked_requires_validation",
+    "acquisition_score": -0.91008,
+    "validation_source": "model_prediction_only",
+    "requires_external_validation": true,
+    "precursor_A": "P Oxide",
+    "precursor_B": "C Oxide",
+    "calcination_temp_C": 1127,
+    "reaction": "P Oxide + C Oxide --(1127\u00b0C)--> PC0.5Sn0.5O3 + CO2\u2191",
+    "latent_z_dim": 48,
+    "discovered_at": "2026-10-28 02:31:53"
+  }
+]
