@@ -1,0 +1,29 @@
+services:
+  synthesis-zero:
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
+    container_name: synthesis-zero-dev
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+      - "5000:5000"
+    environment:
+      - NODE_ENV=development
+      - PORT=5000
+      - FLASK_DEBUG=1
+      - PYTHONUNBUFFERED=1
+      - PYTHON_BACKEND_URL=http://127.0.0.1:5000
+      - WATCHPACK_POLLING=true
+      - CHOKIDAR_USEPOLLING=true
+    volumes:
+      # Live volume mount for instant hot-reloading across both apps
+      - .:/workspace
+      # Protect container Linux node_modules and .next from host Windows binaries
+      - /workspace/frontend/node_modules
+      - /workspace/frontend/.next
+      # Prevent host .venv from overriding container Python environment
+      - /workspace/.venv
+    stdin_open: true
+    tty: true
+

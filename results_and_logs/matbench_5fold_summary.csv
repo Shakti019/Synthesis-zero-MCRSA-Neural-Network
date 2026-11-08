@@ -1,0 +1,2 @@
+fold,train_count,val_count,mae_cell,mae_atom,rmse_cell,r2,spearman_rho
+1,15142,3786,0.045,0.009,0.0712,0.991,0.9953

@@ -1,0 +1,55 @@
+# ====================================================================
+# SYNTHESIS-ZERO: Single Container Development Environment
+# Runs Python Quantum GNN Engine + Next.js Frontend with Live Hot-Reload
+# ====================================================================
+
+FROM python:3.11-slim
+
+# Prevent interactive prompts
+ENV DEBIAN_FRONTEND=noninteractive
+ENV PYTHONUNBUFFERED=1
+ENV PYTHONDONTWRITEBYTECODE=1
+ENV NODE_ENV=development
+ENV WATCHPACK_POLLING=true
+ENV CHOKIDAR_USEPOLLING=true
+
+WORKDIR /workspace
+
+# Install system dependencies, Node.js 20, and build tools
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    curl \
+    ca-certificates \
+    gnupg \
+    build-essential \
+    git \
+    && mkdir -p /etc/apt/keyrings \
+    && curl -fsSL https://deb.nodesource.com/gpgkey/nodesource-repo.gpg.key | gpg --dearmor -o /etc/apt/keyrings/nodesource.gpg \
+    && echo "deb [signed-by=/etc/apt/keyrings/nodesource.gpg] https://deb.nodesource.com/node_20.x nodistro main" > /etc/apt/sources.list.d/nodesource.list \
+    && apt-get update \
+    && apt-get install -y nodejs \
+    && apt-get clean && rm -rf /var/lib/apt/lists/*
+
+# Install PyTorch CPU wheel first (cached in layer)
+RUN pip install --no-cache-dir --upgrade pip setuptools wheel && \
+    pip install --no-cache-dir torch --index-url https://download.pytorch.org/whl/cpu
+
+# Install Python backend dependencies
+COPY requirements.txt /workspace/
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Pre-install Next.js npm dependencies (cached in layer)
+COPY frontend/package*.json /workspace/frontend/
+RUN cd /workspace/frontend && npm install
+
+# Copy application code
+COPY . /workspace/
+
+# Ensure entrypoint is executable and has Unix line endings
+RUN sed -i 's/\r$//' /workspace/entrypoint.dev.sh && \
+    chmod +x /workspace/entrypoint.dev.sh
+
+EXPOSE 3000
+EXPOSE 5000
+
+CMD ["/bin/bash", "/workspace/entrypoint.dev.sh"]
+

@@ -1,0 +1,2 @@
+model_variant,seed,mae_cell,mae_atom
+Full_Model_PBC_3Body,42,0.045,0.009
